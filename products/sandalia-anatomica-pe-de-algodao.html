@@ -2700,6 +2700,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </style>
 
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const precoPromocionalFixo = 5990; // Defina o valor promocional fixo em centavos (R$59,90)
+        
+        function atualizarPrecoPromocional() {
+            let elementoPrecoPromocional = document.querySelector(".preco-promocional"); // Substituir pelo seletor correto
+            if (elementoPrecoPromocional) {
+                elementoPrecoPromocional.textContent = `R$ ${(precoPromocionalFixo / 100).toFixed(2).replace('.', ',')}`;
+            }
+        }
+        
+        atualizarPrecoPromocional(); // Atualiza inicialmente
+        
+        document.querySelectorAll(".seletor-variacao").forEach(botao => { // Substituir ".seletor-variacao" pelo seletor real dos botões de variação
+            botao.addEventListener("click", function() {
+                setTimeout(atualizarPrecoPromocional, 100); // Aguarda a atualização do DOM e corrige o preço
+            });
+        });
+    });
+    </script>
+
 
 
 
@@ -3640,6 +3661,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <!-- ESTRELAS APP DE REVIEW -->
       
 
+      <script>
+document.addEventListener("DOMContentLoaded", function() {
+    const precoPromocionalFixo = 5990; // R$ 59,90 em centavos
+    const seletorPreco = ".price--highlight"; // Seletor do preço promocional
+
+    function corrigirPreco() {
+        let elementoPreco = document.querySelector(seletorPreco);
+        if (elementoPreco && elementoPreco.textContent.trim() !== `R$ ${(precoPromocionalFixo / 100).toFixed(2).replace('.', ',')}`) {
+            elementoPreco.innerHTML = `<span class="visually-hidden">Preço promocional</span>R$ ${(precoPromocionalFixo / 100).toFixed(2).replace('.', ',')}`;
+        }
+    }
+
+    // Atualiza o preço a cada 500ms (meio segundo), sem travar a página
+    setInterval(corrigirPreco, 500);
+
+    console.log("Monitoramento do preço ativado.");
+});
+</script>
 
     
 

@@ -64,7 +64,7 @@ sizeChartsRelentless.metafield = {"charts":[{"id":"2","title":"Anatômica","desc
       <link rel="preload" as="image" imagesizes="(max-width: 999px) calc(100vw - 48px), 640px" imagesrcset="//pedealgodao.com.br/cdn/shop/files/sandalia-partner-pedealgodao-verde_400x.jpg?v=1739366992 400w, //pedealgodao.com.br/cdn/shop/files/sandalia-partner-pedealgodao-verde_500x.jpg?v=1739366992 500w, //pedealgodao.com.br/cdn/shop/files/sandalia-partner-pedealgodao-verde_600x.jpg?v=1739366992 600w, //pedealgodao.com.br/cdn/shop/files/sandalia-partner-pedealgodao-verde_700x.jpg?v=1739366992 700w, //pedealgodao.com.br/cdn/shop/files/sandalia-partner-pedealgodao-verde_800x.jpg?v=1739366992 800w, //pedealgodao.com.br/cdn/shop/files/sandalia-partner-pedealgodao-verde_900x.jpg?v=1739366992 900w, //pedealgodao.com.br/cdn/shop/files/sandalia-partner-pedealgodao-verde_1000x.jpg?v=1739366992 1000w, //pedealgodao.com.br/cdn/shop/files/sandalia-partner-pedealgodao-verde_1080x.jpg?v=1739366992 1080w
 "><link rel="preload" as="script" href="../cdn/shop/t/45/assets/flickity71c6.js?v=4101124369061427901727356581"><meta property="og:type" content="product">
   <meta property="og:title" content="Sandália Partner">
-  <meta property="product:price:amount" content="184,90">
+  <meta property="product:price:amount" content="59,90">
   <meta property="product:price:currency" content="BRL"><meta property="og:image" content="http://pedealgodao.com.br/cdn/shop/files/sandalia-partner-pedealgodao-verde.jpg?v=1739366992">
   <meta property="og:image:secure_url" content="https://pedealgodao.com.br/cdn/shop/files/sandalia-partner-pedealgodao-verde.jpg?v=1739366992">
   <meta property="og:image:width" content="1080">
@@ -3039,7 +3039,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="product-sticky-form__bottom-info">
               <span class="product-sticky-form__title">Sandália Partner</span>
               <span class="square-separator square-separator--subdued"></span>
-              <span class="product-sticky-form__price">R$ 184,90</span>
+              <span class="product-sticky-form__price">R$ 59,90</span>
 
               <div class="product-sticky-form__unit-price text--xsmall text--subdued" style="display: none">
                 <div class="unit-price-measurement">
@@ -3249,12 +3249,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <!-- ESTRELAS APP DE REVIEW -->
       
 
+      <script>
+document.addEventListener("DOMContentLoaded", function() {
+    const precoPromocionalFixo = 5990; // R$ 59,90 em centavos
+    const seletorPreco = ".price--highlight"; // Seletor do preço promocional
+
+    function corrigirPreco() {
+        let elementoPreco = document.querySelector(seletorPreco);
+        if (elementoPreco && elementoPreco.textContent.trim() !== `R$ ${(precoPromocionalFixo / 100).toFixed(2).replace('.', ',')}`) {
+            elementoPreco.innerHTML = `<span class="visually-hidden">Preço promocional</span>R$ ${(precoPromocionalFixo / 100).toFixed(2).replace('.', ',')}`;
+        }
+    }
+
+    // Atualiza o preço a cada 500ms (meio segundo), sem travar a página
+    setInterval(corrigirPreco, 500);
+
+    console.log("Monitoramento do preço ativado.");
+});
+</script>
 
     
 
     <div class="product-meta__price-list-container" role="region" aria-live="polite">
       <div class="price-list" data-product-price-list><span class="price price--highlight price--large">
-            <span class="visually-hidden">Preço promocional</span>R$ 184,90</span>
+            <span class="visually-hidden">Preço promocional</span>R$ 59,90</span>
 
           <span class="price price--compare">
             <span class="visually-hidden">Preço normal</span>R$ 219,90</span></div>
@@ -3361,19 +3379,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <ul class="modal-parcel-list">
                         <li class="modal-parcel-list-item">
                             <span>À vista</span>
-                            <span>Total: <span id="total-a-vista">R$ 184,90</span></span>
+                            <span>Total: <span id="total-a-vista">R$ 59,90</span></span>
                         </li>
                         <li class="modal-parcel-list-item">
                             
                             <p id="juros2" style="display:none"> 1 </p>
                             <span>2x sem juros  de <span id="taxa-segunda-parcela">R$ 92,45</span></span>
-                            <span>Total: <span id="total-segunda-parcela">R$ 184,90</span></span>
+                            <span>Total: <span id="total-segunda-parcela">R$ 59,90</span></span>
                         </li>
                         <li class="modal-parcel-list-item">
                             
                             <p id="juros3" style="display:none"> 1 </p>
                             <span>3x sem juros  de <span id="taxa-terceira-parcela">R$ 61,63</span></span>
-                            <span>Total: <span id="total-terceira-parcela">R$ 184,90</span></span>
+                            <span>Total: <span id="total-terceira-parcela">R$ 59,90</span></span>
                         </li>
                         <li class="modal-parcel-list-item">
                             
@@ -3442,7 +3460,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             
       <p id="pixdesc" style="display:none"> 1 </p>
                             <div class="modal-parcel-price-cash">
-                                <span id="total-pix">R$ 184,90</span>
+                                <span id="total-pix">R$ 59,90</span>
                             </div>
                             <div class="modal-parcel-price-description">
                                 À vista no PIX </strong>
@@ -3518,7 +3536,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             
       <p id="boletodesc" style="display:none"> 1.0 </p>
                             <div class="modal-parcel-price-cash">
-                                <span id="total-boleto">R$ 184,90</span>
+                                <span id="total-boleto">R$ 59,90</span>
                             </div>
                             <div class="modal-parcel-price-description">
                                 À vista no Boleto 
@@ -3675,7 +3693,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <label class="input__block-label" for="product-select-template--18519028760794__main-8440428396762">Variante</label>
 
               <div class="select-wrapper">
-                <select class="select" autocomplete="off" id="product-select-template--18519028760794__main-8440428396762" name="id" form="product-form-template--18519028760794__main-8440428396762"><option selected="selected"  value="46021667422426" data-sku="Verde 36">Verde / 36 - R$ 184,90</option><option   value="46021667455194" data-sku="Verde 37">Verde / 37 - R$ 184,90</option><option   value="46021667487962" data-sku="Verde 38">Verde / 38 - R$ 184,90</option><option   value="46021667520730" data-sku="Verde 39">Verde / 39 - R$ 184,90</option><option   value="46021667553498" data-sku="Verde 40">Verde / 40 - R$ 184,90</option><option   value="46021667586266" data-sku="Verde 41">Verde / 41 - R$ 184,90</option><option   value="46021667619034" data-sku="Verde 42">Verde / 42 - R$ 184,90</option><option   value="46021667651802" data-sku="Verde 43">Verde / 43 - R$ 184,90</option><option   value="46021667684570" data-sku="Verde 44">Verde / 44 - R$ 184,90</option><option   value="46021667717338" data-sku="Verde 45">Verde / 45 - R$ 184,90</option><option   value="45142113943770" data-sku="14:1745#Black;200000124:200000363#36(22.5cm);200007763:201336100">Preto / 36 - R$ 184,90</option><option   value="45142113911002" data-sku="14:1745#Black;200000124:100010481#37(23cm);200007763:201336100">Preto / 37 - R$ 184,90</option><option   value="45142113878234" data-sku="14:1745#Black;200000124:200001016#38(23.5cm);200007763:201336100">Preto / 38 - R$ 184,90</option><option   value="45142114205914" data-sku="14:1745#Black;200000124:200000333#39(24cm);200007763:201336100">Preto / 39 - R$ 184,90</option><option   value="45142114173146" data-sku="14:1745#Black;200000124:200001017#40(24.5cm);200007763:201336100">Preto / 40 - R$ 184,90</option><option   value="45142114140378" data-sku="14:1745#Black;200000124:200000334#41(25cm);200007763:201336100">Preto / 41 - R$ 184,90</option><option   value="45337361809626" data-sku="Black #42">Preto / 42 - R$ 184,90</option><option  disabled="disabled" value="45337361842394" data-sku="Black #43">Preto / 43 - R$ 184,90</option><option   value="45337361875162" data-sku="Black #44">Preto / 44 - R$ 184,90</option><option   value="45337361907930" data-sku="Black #45">Preto / 45 - R$ 184,90</option><option   value="45142114566362" data-sku="14:88490676#Khaki;200000124:200000363#36(22.5cm);200007763:201336100">Bege / 36 - R$ 184,90</option><option   value="45142114533594" data-sku="14:88490676#Khaki;200000124:100010481#37(23cm);200007763:201336100">Bege / 37 - R$ 184,90</option><option   value="45142114500826" data-sku="14:88490676#Khaki;200000124:200001016#38(23.5cm);200007763:201336100">Bege / 38 - R$ 184,90</option><option   value="45142114828506" data-sku="14:88490676#Khaki;200000124:200000333#39(24cm);200007763:201336100">Bege / 39 - R$ 184,90</option><option   value="45142114795738" data-sku="14:88490676#Khaki;200000124:200001017#40(24.5cm);200007763:201336100">Bege / 40 - R$ 184,90</option><option   value="45142114762970" data-sku="14:88490676#Khaki;200000124:200000334#41(25cm);200007763:201336100">Bege / 41 - R$ 184,90</option><option   value="45337362333914" data-sku="Khaki #42">Bege / 42 - R$ 184,90</option><option   value="45337362366682" data-sku="Khaki #43">Bege / 43 - R$ 184,90</option><option   value="45337362399450" data-sku="Khaki #44">Bege / 44 - R$ 184,90</option><option   value="45337362432218" data-sku="Khaki #45">Bege / 45 - R$ 184,90</option><option   value="46233532104922" data-sku="Verde 36">Rosa / 36 - R$ 184,90</option><option   value="46233532137690" data-sku="Verde 37">Rosa / 37 - R$ 184,90</option><option   value="46233532170458" data-sku="Verde 38">Rosa / 38 - R$ 184,90</option><option   value="46233532203226" data-sku="Verde 39">Rosa / 39 - R$ 184,90</option><option   value="46233532235994" data-sku="Verde 40">Rosa / 40 - R$ 184,90</option><option  disabled="disabled" value="46233532268762" data-sku="Verde 41">Rosa / 41 - R$ 184,90</option><option  disabled="disabled" value="46233532301530" data-sku="Verde 42">Rosa / 42 - R$ 184,90</option><option  disabled="disabled" value="46233532334298" data-sku="Verde 43">Rosa / 43 - R$ 184,90</option><option  disabled="disabled" value="46233532367066" data-sku="Verde 44">Rosa / 44 - R$ 184,90</option><option  disabled="disabled" value="46233532399834" data-sku="Verde 45">Rosa / 45 - R$ 184,90</option></select><svg focusable="false" width="12" height="8" class="icon icon--chevron   " viewBox="0 0 12 8">
+                <select class="select" autocomplete="off" id="product-select-template--18519028760794__main-8440428396762" name="id" form="product-form-template--18519028760794__main-8440428396762"><option selected="selected"  value="46021667422426" data-sku="Verde 36">Verde / 36 - R$ 59,90</option><option   value="46021667455194" data-sku="Verde 37">Verde / 37 - R$ 59,90</option><option   value="46021667487962" data-sku="Verde 38">Verde / 38 - R$ 59,90</option><option   value="46021667520730" data-sku="Verde 39">Verde / 39 - R$ 59,90</option><option   value="46021667553498" data-sku="Verde 40">Verde / 40 - R$ 59,90</option><option   value="46021667586266" data-sku="Verde 41">Verde / 41 - R$ 59,90</option><option   value="46021667619034" data-sku="Verde 42">Verde / 42 - R$ 59,90</option><option   value="46021667651802" data-sku="Verde 43">Verde / 43 - R$ 59,90</option><option   value="46021667684570" data-sku="Verde 44">Verde / 44 - R$ 59,90</option><option   value="46021667717338" data-sku="Verde 45">Verde / 45 - R$ 59,90</option><option   value="45142113943770" data-sku="14:1745#Black;200000124:200000363#36(22.5cm);200007763:201336100">Preto / 36 - R$ 59,90</option><option   value="45142113911002" data-sku="14:1745#Black;200000124:100010481#37(23cm);200007763:201336100">Preto / 37 - R$ 59,90</option><option   value="45142113878234" data-sku="14:1745#Black;200000124:200001016#38(23.5cm);200007763:201336100">Preto / 38 - R$ 59,90</option><option   value="45142114205914" data-sku="14:1745#Black;200000124:200000333#39(24cm);200007763:201336100">Preto / 39 - R$ 59,90</option><option   value="45142114173146" data-sku="14:1745#Black;200000124:200001017#40(24.5cm);200007763:201336100">Preto / 40 - R$ 59,90</option><option   value="45142114140378" data-sku="14:1745#Black;200000124:200000334#41(25cm);200007763:201336100">Preto / 41 - R$ 59,90</option><option   value="45337361809626" data-sku="Black #42">Preto / 42 - R$ 59,90</option><option  disabled="disabled" value="45337361842394" data-sku="Black #43">Preto / 43 - R$ 59,90</option><option   value="45337361875162" data-sku="Black #44">Preto / 44 - R$ 59,90</option><option   value="45337361907930" data-sku="Black #45">Preto / 45 - R$ 59,90</option><option   value="45142114566362" data-sku="14:88490676#Khaki;200000124:200000363#36(22.5cm);200007763:201336100">Bege / 36 - R$ 59,90</option><option   value="45142114533594" data-sku="14:88490676#Khaki;200000124:100010481#37(23cm);200007763:201336100">Bege / 37 - R$ 59,90</option><option   value="45142114500826" data-sku="14:88490676#Khaki;200000124:200001016#38(23.5cm);200007763:201336100">Bege / 38 - R$ 59,90</option><option   value="45142114828506" data-sku="14:88490676#Khaki;200000124:200000333#39(24cm);200007763:201336100">Bege / 39 - R$ 59,90</option><option   value="45142114795738" data-sku="14:88490676#Khaki;200000124:200001017#40(24.5cm);200007763:201336100">Bege / 40 - R$ 59,90</option><option   value="45142114762970" data-sku="14:88490676#Khaki;200000124:200000334#41(25cm);200007763:201336100">Bege / 41 - R$ 59,90</option><option   value="45337362333914" data-sku="Khaki #42">Bege / 42 - R$ 59,90</option><option   value="45337362366682" data-sku="Khaki #43">Bege / 43 - R$ 59,90</option><option   value="45337362399450" data-sku="Khaki #44">Bege / 44 - R$ 59,90</option><option   value="45337362432218" data-sku="Khaki #45">Bege / 45 - R$ 59,90</option><option   value="46233532104922" data-sku="Verde 36">Rosa / 36 - R$ 59,90</option><option   value="46233532137690" data-sku="Verde 37">Rosa / 37 - R$ 59,90</option><option   value="46233532170458" data-sku="Verde 38">Rosa / 38 - R$ 59,90</option><option   value="46233532203226" data-sku="Verde 39">Rosa / 39 - R$ 59,90</option><option   value="46233532235994" data-sku="Verde 40">Rosa / 40 - R$ 59,90</option><option  disabled="disabled" value="46233532268762" data-sku="Verde 41">Rosa / 41 - R$ 59,90</option><option  disabled="disabled" value="46233532301530" data-sku="Verde 42">Rosa / 42 - R$ 59,90</option><option  disabled="disabled" value="46233532334298" data-sku="Verde 43">Rosa / 43 - R$ 59,90</option><option  disabled="disabled" value="46233532367066" data-sku="Verde 44">Rosa / 44 - R$ 59,90</option><option  disabled="disabled" value="46233532399834" data-sku="Verde 45">Rosa / 45 - R$ 59,90</option></select><svg focusable="false" width="12" height="8" class="icon icon--chevron   " viewBox="0 0 12 8">
         <path fill="none" d="M1 1l5 5 5-5" stroke="currentColor" stroke-width="2"></path>
       </svg></div>
             </noscript>

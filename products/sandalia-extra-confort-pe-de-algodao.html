@@ -2,21 +2,21 @@
   
 <!-- Meta Pixel Code -->
 <script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '1314231483219094');
-  fbq('track', 'PageView');
-  </script>
-  <noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=1314231483219094&ev=PageView&noscript=1"
-  /></noscript>
-  <!-- End Meta Pixel Code -->
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1314231483219094');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1314231483219094&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
 <!-- Mirrored from pedealgodao.com.br/products/sandalia-extra-confort-pe-de-algodao by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Mar 2025 19:20:43 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
@@ -3119,6 +3119,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <!-- ESTRELAS APP DE REVIEW -->
       
 
+      <script>
+document.addEventListener("DOMContentLoaded", function() {
+    const precoPromocionalFixo = 5990; // R$ 59,90 em centavos
+    const seletorPreco = ".price--highlight"; // Seletor do preço promocional
+
+    function corrigirPreco() {
+        let elementoPreco = document.querySelector(seletorPreco);
+        if (elementoPreco && elementoPreco.textContent.trim() !== `R$ ${(precoPromocionalFixo / 100).toFixed(2).replace('.', ',')}`) {
+            elementoPreco.innerHTML = `<span class="visually-hidden">Preço promocional</span>R$ ${(precoPromocionalFixo / 100).toFixed(2).replace('.', ',')}`;
+        }
+    }
+
+    // Atualiza o preço a cada 500ms (meio segundo), sem travar a página
+    setInterval(corrigirPreco, 500);
+
+    console.log("Monitoramento do preço ativado.");
+});
+</script>
 
     
 
