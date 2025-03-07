@@ -1,0 +1,20 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pedealgodao.com.br	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22BRSP%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22425FD24D-faa1-4B49-ae28-78abcbdea1a4%22%7D
+pedealgodao.com.br	TRUE	/	FALSE	1999999999	_landing_page	%2Fpages%2Frastreio
+.digitaloceanspaces.com	TRUE	/	FALSE	1999999999	__cf_bm	iSPT6rBadEZueg6QH0oamxp6itE.ZPFXAML9IhS0mzc-1741114824-1.0.1.1-F8VhiNjXlGVy84F4KKKwZymZZ.d5udA3LON64PQ_ohGjweJz.lwknzHu6FsK6ofrdSCYsWJipHREnDXCowcah1PhRWdAwTQCZGtsuWkZE1o
+empreender.nyc3.cdn.digitaloceanspaces.com	TRUE	/	FALSE	1999999999	SameSite	None
+pedealgodao.com.br	TRUE	/	FALSE	1999999999	cart	Z2NwLXVzLWVhc3QxOjAxSk5IOEY4UVE3UDJBNjJFNjVNU1o1RUpG%3Fkey%3D48e3d6997ef43fbc0cfd68182b8f0a43
+pedealgodao.com.br	TRUE	/	FALSE	1999999999	cart_sig	eb887acaa030e857acb5dc4f5831d95a
+pedealgodao.com.br	TRUE	/	FALSE	1999999999	cart_currency	BRL
+www.mercadopago.com	TRUE	/	FALSE	1999999999	_d2id	8258bb1b-566d-4757-8437-10682b0f5629-n
+.mercadopago.com	TRUE	/	FALSE	1999999999	SameSite	None
+app.reportana.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	eyJpdiI6IkFrVmxwc2c4NmxkT3FBbnk2QlwvbFZnPT0iLCJ2YWx1ZSI6Im82c2xpXC9RWm9qZVVFXC84Y1ZhZEFrMTUrS1A3aVFJNTFvM1Y5ZmRJTWhXWG1WNjZ2NzZsRWlseGV0SjJ4WDlNSCIsIm1hYyI6IjJiMGI2NWQ0MGY4NTQxNTc4MGVmMDE0YTM0ZWVjY2VkYTAzNTg3MzFjOGNhMjhkZjBlM2JiYWZiYmI5NDkwY2MifQ%3D%3D
+app.reportana.com	TRUE	/	FALSE	1999999999	reportana_session	eyJpdiI6ImtMb1QwTytFUXh2OEVpQ1VTVTBMbWc9PSIsInZhbHVlIjoiTmVZWEJlSlpMcXlCS3RjdEVSaVNSbUVoaVJTU3lkdEhFNFJFb3dEQStvdjU3MWt4ajJZZE5SZFZjRDdNV2xKaiIsIm1hYyI6IjAyY2JlZTlhNmQ4Yzk3N2Y2MjFkNzFkZTc4NTkwOTYzMmM0NWFiMmZjOWVhZDhiZjc1Mzg2ZmFhZTA0YThkNjkifQ%3D%3D
+app.reportana.com	TRUE	/	FALSE	1999999999	samesite	strict
+pedealgodao.com.br	TRUE	/	FALSE	1999999999	keep_alive	55551954-72ad-4f48-b1cf-02e37026ca9a
+pedealgodao.com.br	TRUE	/	FALSE	1999999999	localization	BR
+pedealgodao.com.br	TRUE	/	FALSE	1999999999	_shopify_y	F7792A5E-9087-420D-882c-85011ada15ae
+pedealgodao.com.br	TRUE	/	FALSE	1999999999	_shopify_s	62F0FC64-a23e-4CF6-b8c4-64f38482c968
+pedealgodao.com.br	TRUE	/	FALSE	1999999999	SameSite	Lax
+

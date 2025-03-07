@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pedealgodao.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pedealgodao.com.br/collections/rastreio-1.atom"/>
+  <title>Pé de Algodão</title>
+  <updated>2025-02-04T20:05:43-03:00</updated>
+  <author>
+    <name>Pé de Algodão</name>
+  </author>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7656366506202</id>
+    <published>2025-02-04T20:05:43-03:00</published>
+    <updated>2025-02-04T20:05:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/bolsa-com-corrente-pe-de-algodao"/>
+    <title>Bolsa Vienna Pé de Algodão</title>
+    <s:type>Bolsa 7</s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/Sfe357ab95a044c63b16d4d26fb733a59l.jpg?v=1658925253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong>Bolsa 7<br>
+        <strong>Preço: </strong>
+            187.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div class="desktop-flex" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h4 style="font-weight: bold; text-align: left;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Procurando pela nova bolsa da temporada?</span></span></span></span></h4>
+<p style="text-align: left;"><span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Então diga “Olá!” para a Bolsa Vienna da Pé de Algodão: sua nova bestie. Compacta, curinga e perfeita para te acompanhar em qualquer ocasião.</span></span></span></p>
+</div>
+<div class="image-container"><img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/S8323155d11054f04a8d89a0ae19689aaQ_480x480_8f5cf21a-4b23-4dd1-ba38-6a9b3a3c5bde.webp?v=1737672052"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop-flexibility" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h4 style="font-weight: bold; text-align: left;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span>Minimalista e moderna</span></span></span></h4>
+<p style="text-align: left;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Seu design contemporâneo transforma qualquer look com personalidade e estilo.</span></span></span></span></span></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO GARANTIR A MINHA</button></div>
+</div>
+<div class="image-container" style="text-align: center;">
+<img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/S1fddf3dc1d044b2f86cee12843de41d2A_480x480_c984ead9-224b-433d-8614-3ff8849c6aa2.webp?v=1737672050"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image">
+<button class="action-button">QUERO GARANTIR A MINHA !</button><br>
+</div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem --><!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos --><!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img style="max-width: 150px; height: auto;" alt="Garantia de 7 dias" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h6 style="font-weight: bold;">Especificações:</h6>
+<p><span style="font-weight: 400;">Material: PU (Poliuretano).<br>Tamanho da alça: 115cm.<br>Medidas da bolsa: 20cm x  13cm x 6cm.</span></p>
+<!-- Primeira parte das especificações, com ícones --><!-- Informações das especificações adicionais -->
+<h6 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h6>
+<p>1(uma) * bolsa casual feminina.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7656366506202</id>
+      <title>Amarelo</title>
+      <s:price currency="BRL">187.90</s:price>
+      <s:sku>14:366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7656366506202</id>
+      <title>Azul</title>
+      <s:price currency="BRL">187.90</s:price>
+      <s:sku>14:173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7656366506202</id>
+      <title>Branco</title>
+      <s:price currency="BRL">187.90</s:price>
+      <s:sku>14:771#beige White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7656366506202</id>
+      <title>Preto</title>
+      <s:price currency="BRL">187.90</s:price>
+      <s:sku>14:193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7656366506202</id>
+      <title>Vermelho</title>
+      <s:price currency="BRL">187.90</s:price>
+      <s:sku>14:200002984</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7663911796954</id>
+    <published>2025-02-04T20:05:41-03:00</published>
+    <updated>2025-02-04T20:05:41-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/bolsa-de-tecido-pe-de-algodao"/>
+    <title>Bolsa de tecido Pé de Algodão</title>
+    <s:type>Bolsa 14</s:type>
+    <s:vendor>Wiio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/2_b0864918-f855-4cf6-b1f7-f7eb9ac7c813.jpg?v=1655208185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Wiio<br>
+        <strong>Tipo: </strong>Bolsa 14<br>
+        <strong>Preço: </strong>
+            209.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h2 style="font-weight: bold;">JÁ IMAGINOU TER UMA PARCEIRA PARA TODOS OS MOMENTOS?</h2>
+<h3 style="font-weight: bold;">A Bolsa de tecido Pé de Algodão é perfeita para isso!</h3>
+<p><span>É a escolha ideal para quem busca praticidade sem abrir mão da moda. Adicione um toque de estilo ao seu guarda-roupa!</span><br><br></p>
+</div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/3_480x480_3884a313-c48d-400e-b039-7faa0f8cb1e5.webp?v=1737672400" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex invert-desktop-flexibility">
+<div class="text-container">
+<h3 style="font-weight: bold;">Qualidade Premium!</h3>
+<p><span>Com um formato espaçoso, ela é ideal para o dia a dia, acomodando tudo o que você precisa, desde itens essenciais até acessórios extras. Ela complementa qualquer look, do casual ao mais elaborado.</span><br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO GARANTIR A MINHA</button></div>
+</div>
+<div style="text-align: center;" class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/1_480x480_f576d413-5b52-4513-84e6-8edbc5b4219e.jpg?v=1737672398" alt="Imagem de sandália" class="responsive-media"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image">
+<button class="action-button">QUERO GARANTIR A MINHA !</button><br>
+</div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem --><!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos --><!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184" alt="Garantia de 7 dias" style="max-width: 150px; height: auto;">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h3 style="font-weight: bold;">Especificações:</h3>
+<p><span style="font-weight: 400;">Material: Microfibra).<br>Gênero aplicável: Feminino.<br>Função: Armazenar celulares, cosméticos, chaves e etc...<br>Tipo de meia: Casual.<br>Tamanho da alça: 25cm.<br>Medidas da bolsa: 45cm x 38cm x 3cm.</span></p>
+<!-- Primeira parte das especificações, com ícones --><!-- Informações das especificações adicionais -->
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(uma) * bolsa casual feminina.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7663911796954</id>
+      <title>Bege</title>
+      <s:price currency="BRL">209.90</s:price>
+      <s:sku>WH7983.01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7681966768346</id>
+    <published>2025-02-04T19:44:41-03:00</published>
+    <updated>2025-02-04T19:44:41-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/bolsa-ajustavel-pe-de-algodao"/>
+    <title>Bolsa Aura Pé de Algodão</title>
+    <s:type>Bolsa 1</s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/Sa7e6a5c1345f470b9c7fadd45de0933b2.jpg?v=1656505127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong>Bolsa 1<br>
+        <strong>Preço: </strong>
+            267.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo --><!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h4 style="font-weight: bold; text-align: left;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Procurando pela nova bolsa da temporada?</span></span></span></span></h4>
+<p style="text-align: left;"><span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Então diga “Olá!” para a Bolsa Aura da Pé de Algodão: sua nova bestie. Espaçosa, curinga e perfeita para te acompanhar em qualquer ocasião.</span></span></span><br></p>
+</div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Sdbb8fe89fd844734836edb089a851c9fB_480x480_4e5200d1-6a93-4fc1-8cce-04e812ee7d40.jpg?v=1737667683" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex invert-desktop-flexibility">
+<div class="text-container">
+<h4 style="font-weight: bold; text-align: left;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span>Minimalista e moderna</span></span></span></h4>
+<p style="text-align: left;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Seu design contemporâneo transforma qualquer look com personalidade e estilo.</span></span></span></span></span></p>
+<p style="text-align: left;"> </p>
+</div>
+<div style="text-align: center;" class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/H1ef80aff37604502a3f45df52f25039el_480x480_f1176050-5a5d-433c-96cd-7fe7ecaa626b.webp?v=17376676818" alt="Imagem de sandália" class="responsive-media"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image">
+<button class="action-button">QUERO GARANTIR A MINHA !</button><br>
+</div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem --><!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos --><!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184" alt="Garantia de 7 dias" style="max-width: 150px; height: auto;">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h6 style="font-weight: bold;">Especificações:</h6>
+<p><span style="font-weight: 400;">Material: PU (Poliuretano).<br>Tamanho da alça: 120cm.<br>Medidas da bolsa: 27cm x  19cm x 11cm.</span></p>
+<!-- Primeira parte das especificações, com ícones --><!-- Informações das especificações adicionais -->
+<h6 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h6>
+<p>1(uma) * bolsa casual feminina.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7681966768346</id>
+      <title>Preto</title>
+      <s:price currency="BRL">267.90</s:price>
+      <s:sku>14:193;5:200003927#27.5cmx19.5cmx11cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7681966768346</id>
+      <title>Marrom</title>
+      <s:price currency="BRL">267.90</s:price>
+      <s:sku>14:365458;5:200003927#27.5cmx19.5cmx11cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7681966768346</id>
+      <title>Café</title>
+      <s:price currency="BRL">267.90</s:price>
+      <s:sku>14:200005100;5:200003927#27.5cmx19.5cmx11cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7657970958554</id>
+    <published>2025-02-04T19:44:35-03:00</published>
+    <updated>2025-02-04T19:44:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/bolsa-de-mao-pe-de-algodao"/>
+    <title>Bolsa Pure Pé de Algodão</title>
+    <s:type>Bolsa 19</s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/H8b3cdbde47e749e280831e7902ba14ceU.jpg?v=1658930426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong>Bolsa 19<br>
+        <strong>Preço: </strong>
+            159.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo --><!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h4 style="font-weight: bold; text-align: left;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Procurando pela nova bolsa da temporada?</span></span></span></span></h4>
+<p style="text-align: left;"><span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Então diga “Olá!” para a Bolsa Pure da Pé de Algodão: sua nova bestie. Compacta, curinga e perfeita para te acompanhar em qualquer ocasião.</span></span></span></p>
+</div>
+<div class="image-container"></div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/H9bec8ec2266b43ecb88010afe6d45fe8r_480x480_c9d90eb0-7140-409a-bb68-73094a0c55de.webp?v=1737667878" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex invert-desktop-flexibility">
+<div class="text-container">
+<h4 style="font-weight: bold; text-align: left;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span>Minimalista e moderna</span></span></span></h4>
+<p style="text-align: left;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Seu design contemporâneo transforma qualquer look com personalidade e estilo.</span></span></span></span></span></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO GARANTIR A MINHA</button></div>
+</div>
+<div style="text-align: center;" class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/H25123672334d4d7b81e3403aea887fbcm_480x480_571add88-6e7a-419b-ad3e-6b99d09b3712.jpg?v=1737667879" alt="Imagem de sandália" class="responsive-media"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image">
+<button class="action-button">QUERO GARANTIR A MINHA !</button><br>
+</div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem --><!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos --><!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184" alt="Garantia de 7 dias" style="max-width: 150px; height: auto;">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h6 style="font-weight: bold;">Especificações:</h6>
+<p><span style="font-weight: 400;">Material: PU (Poliuretano).<br>Tamanho da alça: 15cm.<br>Medidas da bolsa: 25cm x  17cm x 7cm.</span></p>
+<!-- Primeira parte das especificações, com ícones --><!-- Informações das especificações adicionais -->
+<h6 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h6>
+<p>1(uma) * bolsa casual feminina.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7657970958554</id>
+      <title>Branco</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>14:771#BG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7657970958554</id>
+      <title>Preto</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>14:193#BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7657970958554</id>
+      <title>Azul</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>14:173#BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7657970958554</id>
+      <title>Marrom</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>14:1254#BR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7657970958554</id>
+      <title>Lilás</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>14:365458#PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

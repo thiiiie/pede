@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pedealgodao.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pedealgodao.com.br/collections/meias.atom"/>
+  <title>Pé de Algodão</title>
+  <updated>2025-02-04T19:18:52-03:00</updated>
+  <author>
+    <name>Pé de Algodão</name>
+  </author>
+  <entry>
+    <id>https://pedealgodao.com.br/products/8000627376346</id>
+    <published>2025-02-04T19:18:52-03:00</published>
+    <updated>2025-02-04T19:18:52-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/meia-5-pares"/>
+    <title>Meia 5 pares</title>
+    <s:type></s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/S404c4cb33473499db218cd2a5ac744a0d.jpg?v=1685971749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            109.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div class="desktop-flex" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h2 style="font-weight: bold;">JÁ IMAGINOU ANDAR COM OS PÉS AQUECIDOS E CONFORTÁVEIS?</h2>
+<h3 style="font-weight: bold;">A Meia 5 pares é perfeita para todos os momentos!</h3>
+<p>São 5 pares diferentes, um melhor que o outro..<br><br></p>
+</div>
+<div class="image-container"><img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/S91662b58336a4e3899136d855b5051cas_480x480_91762333-61e3-4d00-85cb-4e16d2a38cf8.webp?v=1737516193"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop-flexibility" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Qualidade Premium!</h3>
+<p>Com um ajuste perfeito e design moderno, garantem frescor e bem-estar, são ideais para todas as ocasiões. Ideais para quem gosta de ter estilo, sem abrir mão de um toque de humor.<br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div class="image-container" style="text-align: center;">
+<img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/S897c1f5010294e7b99c799c5415e9687F_480x480_82986420-3133-43fc-8a3b-320e4ae17d0b.webp?v=1737516192"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image">
+<button class="action-button">QUERO ANDAR COM OS PÉS QUENTINHOS</button><br>
+</div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem --><!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos --><!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img style="max-width: 150px; height: auto;" alt="Garantia de 7 dias" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h3 style="font-weight: bold;">Especificações:</h3>
+<p><span style="font-weight: 400;">Material: Lã.<br>Gênero aplicável: Unissex.<br>Função: Aquecer, conforto.<br>Tipo de meia: Casual.<br>Tamanho: Tamanho único (35-40).<br></span><span style="font-weight: 400;"></span></p>
+<!-- Primeira parte das especificações, com ícones --><!-- Informações das especificações adicionais -->
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>5(cinco) * pares de meias.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8000627376346</id>
+      <title>Conjunto 1</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:173#C;5:200003528#5 Pairs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8000627376346</id>
+      <title>Conjunto 2</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:1254#D;5:200003528#5 Pairs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8000627376346</id>
+      <title>Conjunto 3</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:691#G;5:200003528#5 Pairs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8000627376346</id>
+      <title>Conjunto 4</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:203008817#X;5:200003528#5 Pairs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7635933659354</id>
+    <published>2025-02-04T19:02:58-03:00</published>
+    <updated>2025-02-04T19:02:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/meia-de-la"/>
+    <title>Meia de Lã</title>
+    <s:type>Meia 1</s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/H63e26f25fd804530b261a902b9615c91T.jpg?v=1652877786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong>Meia 1<br>
+        <strong>Preço: </strong>
+            77.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h2 style="font-weight: bold;">JÁ IMAGINOU ANDAR COM OS PÉS AQUECIDOS E CONFORTÁVEIS?</h2>
+<h3 style="font-weight: bold;">A Meia de Lã é perfeita para todos os momentos!</h3>
+<p>Mantenha seus pés aquecidos e confortáveis durante o dia.<br><br></p>
+</div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Hed1b3319bad64b329f4a541f2707bae6M_480x480_a6fde46c-0cf4-4090-aee4-3e0fcd106c49.jpg?v=1737515477" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex invert-desktop-flexibility">
+<div class="text-container">
+<h3 style="font-weight: bold;">Qualidade Premium!</h3>
+<p>Com um ajuste perfeito e design moderno, garantem frescor e bem-estar, são ideais para todas as ocasiões. Disponível no Branco, Cinza, Rosa, Café, Azul, Verde e Roxo.<br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div style="text-align: center;" class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/H4acdbbacba7943e8aaf8ad9d54fe93d7W_480x480_f0d4cb06-c00f-4fc6-93c2-b7505f697c26.jpg?v=1737515480" alt="Imagem de sandália" class="responsive-media"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image">
+<button class="action-button">QUERO ANDAR COM OS PÉS QUENTINHOS</button><br>
+</div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem --><!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos --><!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184" alt="Garantia de 7 dias" style="max-width: 150px; height: auto;">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h3 style="font-weight: bold;">Especificações:</h3>
+<p><span style="font-weight: 400;">Material: Lã.<br>Gênero aplicável: Unissex.<br>Função: Aquecer, conforto.<br>Tipo de meia: Casual.<br>Tamanho: Tamanho único (35-40).<br></span><span style="font-weight: 400;"></span></p>
+<!-- Primeira parte das especificações, com ícones --><!-- Informações das especificações adicionais -->
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de meia.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7635933659354</id>
+      <title>Branco</title>
+      <s:price currency="BRL">77.90</s:price>
+      <s:sku>14:771#White;5:200003528#one size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7635933659354</id>
+      <title>Cinza</title>
+      <s:price currency="BRL">77.90</s:price>
+      <s:sku>14:193#Gray;5:200003528#one size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7635933659354</id>
+      <title>Rosa</title>
+      <s:price currency="BRL">77.90</s:price>
+      <s:sku>14:173#Pink;5:200003528#one size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7635933659354</id>
+      <title>Café</title>
+      <s:price currency="BRL">77.90</s:price>
+      <s:sku>14:1254#Coffee;5:200003528#one size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7635933659354</id>
+      <title>Azul</title>
+      <s:price currency="BRL">77.90</s:price>
+      <s:sku>14:365458#Blue;5:200003528#one size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7635933659354</id>
+      <title>Verde</title>
+      <s:price currency="BRL">77.90</s:price>
+      <s:sku>14:350850#Green;5:200003528#one size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7635933659354</id>
+      <title>Roxo</title>
+      <s:price currency="BRL">77.90</s:price>
+      <s:sku>14:691#Purple;5:200003528#one size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7634963955930</id>
+    <published>2025-02-04T19:02:38-03:00</published>
+    <updated>2025-02-04T19:02:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/meia-high-school"/>
+    <title>Meia Cano Longo</title>
+    <s:type>Meia 3</s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/Hcf2138a694254e2b851a6820f7524b8c1.jpg?v=1652788732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong>Meia 3<br>
+        <strong>Preço: </strong>
+            109.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div class="desktop-flex" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h2 style="font-weight: bold;">JÁ IMAGINOU ANDAR COM OS PÉS AQUECIDOS E CONFORTÁVEIS?</h2>
+<h3 style="font-weight: bold;">A Meia Cano Longo é perfeita para todos os momentos!</h3>
+<p>Design que combina conforto e estilo.<br><br></p>
+</div>
+<div class="image-container"><img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/H8c787714f9b34ad29f1b1df1eb786577N_480x480_da7c6a73-b08d-4df2-a0e9-a9da3dc4434d.webp?v=1737517163"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop-flexibility" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Qualidade Premium!</h3>
+<p>Adicione um toque especial ao seu dia com nossas meias versáteis e cheias de personalidade. Disponíveis em várias cores e tamanhos, são perfeitas para quem valoriza conforto e qualidade nos mínimos detalhes<br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div class="image-container" style="text-align: center;">
+<img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/H211297eb46284d9684634e3015f88289G_480x480_3404aa52-efe8-4954-b5d1-14de6d8dcd93.jpg?v=1737517165"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image">
+<button class="action-button">QUERO ANDAR COM OS PÉS QUENTINHOS</button><br>
+</div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem --><!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos --><!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img style="max-width: 150px; height: auto;" alt="Garantia de 7 dias" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h3 style="font-weight: bold;">Especificações:</h3>
+<p><span style="font-weight: 400;">Material: Lã.<br>Gênero aplicável: Unissex.<br>Função: Aquecer, conforto.<br>Tipo de meia: Casual.<br>Tamanho: Tamanho único (35-40).<br></span><span style="font-weight: 400;"></span></p>
+<!-- Primeira parte das especificações, com ícones --><!-- Informações das especificações adicionais -->
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de meia.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634963955930</id>
+      <title>Preto e Branco</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:771#Y01-1;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634963955930</id>
+      <title>Branco e Preto</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:193#Y01-2;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634963955930</id>
+      <title>Amarelo e Preto</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:173#Y01-3;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634963955930</id>
+      <title>Bordô e Branco</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:1254#Y01-4;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634963955930</id>
+      <title>Branco e Vermelho</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:365458#Y01-5;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634963955930</id>
+      <title>Azul Escuro e Branco</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:350850#Y01-6;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634963955930</id>
+      <title>Marrom e Branco</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:691#Y01-7;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634963955930</id>
+      <title>Verde e Amarelo</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:200004890#Y01-8;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634963955930</id>
+      <title>Cinza Claro e Branco</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:175#Y01-9;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634963955930</id>
+      <title>Cinza Escuro e Branco</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:200004889#Y01-10;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7636931543258</id>
+    <published>2025-02-04T19:02:10-03:00</published>
+    <updated>2025-02-04T19:02:10-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/meia-wool"/>
+    <title>Meia Wool</title>
+    <s:type>Meia 4</s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/Hf67afdc25114461ca57e276304a7cecb7.jpg?v=1652963956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong>Meia 4<br>
+        <strong>Preço: </strong>
+            107.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h2 style="font-weight: bold;">JÁ IMAGINOU ANDAR COM OS PÉS AQUECIDOS E CONFORTÁVEIS?</h2>
+<h3 style="font-weight: bold;">Escolha a qualidade que seus pés merecem!</h3>
+<p>Mantenha seus pés aquecidos e confortáveis durante o dia a dia.<br><br></p>
+</div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_1_480x480_85c1b98a-87d5-4e38-b399-a38a9ed86925.jpg?v=1737599616" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex invert-desktop-flexibility">
+<div class="text-container">
+<h3 style="font-weight: bold;">Qualidade Premium!</h3>
+<p>Experimente o equilíbrio perfeito entre estilo e conforto a Meia Wool. Disponível em cores neutras e elegantes, é o complemento ideal para qualquer look casual.<br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div style="text-align: center;" class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/H679d3b156e07420a9c9d3c11a6466f36O_480x480_f2a306e0-1cd5-4a20-974a-f5a47707b062.webp?v=1737599614" alt="Imagem de sandália" class="responsive-media"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image">
+<button class="action-button">QUERO ANDAR COM OS PÉS QUENTINHOS</button><br>
+</div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem --><!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos --><!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184" alt="Garantia de 7 dias" style="max-width: 150px; height: auto;">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h3 style="font-weight: bold;">Especificações:</h3>
+<p><span style="font-weight: 400;">Material: Lã.<br>Gênero aplicável: Unissex.<br>Função: Aquecer, conforto.<br>Tipo de meia: Casual.<br>Tamanho: Tamanho único (35-40).<br></span><span style="font-weight: 400;"></span></p>
+<!-- Primeira parte das especificações, com ícones --><!-- Informações das especificações adicionais -->
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de meia.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7636931543258</id>
+      <title>Bege</title>
+      <s:price currency="BRL">107.90</s:price>
+      <s:sku>14:193#02;200007763:201336100;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7636931543258</id>
+      <title>Azul</title>
+      <s:price currency="BRL">107.90</s:price>
+      <s:sku>14:173#03;200007763:201336100;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7636931543258</id>
+      <title>Bordô</title>
+      <s:price currency="BRL">107.90</s:price>
+      <s:sku>14:1254#04;200007763:201336100;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7636931543258</id>
+      <title>Cinza</title>
+      <s:price currency="BRL">107.90</s:price>
+      <s:sku>14:365458#05;200007763:201336100;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7636931543258</id>
+      <title>Café</title>
+      <s:price currency="BRL">107.90</s:price>
+      <s:sku>14:350850#06;200007763:201336100;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7636931543258</id>
+      <title>Verde</title>
+      <s:price currency="BRL">107.90</s:price>
+      <s:sku>14:691#07;200007763:201336100;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7634986598618</id>
+    <published>2025-02-04T19:01:44-03:00</published>
+    <updated>2025-02-04T19:01:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/meia-cano-longo"/>
+    <title>Meia Comfort</title>
+    <s:type>Meia 7</s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/Ha6cf88ad53c84d368db6db9c6edc1dee5.jpg?v=1652791840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong>Meia 7<br>
+        <strong>Preço: </strong>
+            109.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div class="desktop-flex" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h2 style="font-weight: bold;">JÁ IMAGINOU ANDAR COM OS PÉS AQUECIDOS E CONFORTÁVEIS?</h2>
+<h3 style="font-weight: bold;">A Meia Comfort é perfeita para todos os momentos!</h3>
+<p>Ela é o toque final que faltava no seu dia a dia.<br><br></p>
+</div>
+<div class="image-container"><img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/2_480x480_5c24c267-93b7-4932-9aa8-857325efcca2.webp?v=1737601237"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop-flexibility" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Design Único!</h3>
+<p>Seu design versátil combina facilmente com diferentes looks, sendo ideal tanto para momentos descontraídos quanto para compor um visual moderno e despojado.<br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div class="image-container" style="text-align: center;">
+<img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/1_480x480_41f34041-58ba-471e-bf97-fe50ba649f1f.webp?v=1737601239"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image">
+<button class="action-button">QUERO ANDAR COM OS PÉS QUENTINHOS</button><br>
+</div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem --><!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos --><!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img style="max-width: 150px; height: auto;" alt="Garantia de 7 dias" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h3 style="font-weight: bold;">Especificações:</h3>
+<p><span style="font-weight: 400;">Material: Lã.<br>Gênero aplicável: Unissex.<br>Função: Aquecer, conforto.<br>Tipo de meia: Casual.<br>Tamanho: Tamanho único (35-40).<br></span><span style="font-weight: 400;"></span></p>
+<!-- Primeira parte das especificações, com ícones --><!-- Informações das especificações adicionais -->
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de meia.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634986598618</id>
+      <title>Preto</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:200002130#AC01-1;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634986598618</id>
+      <title>Vermelho</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:200001438#AC01-2;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634986598618</id>
+      <title>Amarelo</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:350852#AC01-3;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634986598618</id>
+      <title>Verde</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:1052#AC01-4;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634986598618</id>
+      <title>Azul</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:496#AC01-5;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634986598618</id>
+      <title>Marrom</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:200004891#AC01-6;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634986598618</id>
+      <title>Branco</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:10#AC01-7;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634986598618</id>
+      <title>Cinza Claro</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:350853#AC01-8;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634986598618</id>
+      <title>Cinza Escuro</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:29#AC01-9;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7634986598618</id>
+      <title>Bege</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku>14:366#AC01-10;5:200003528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7998188749018</id>
+    <published>2025-02-04T19:01:23-03:00</published>
+    <updated>2025-02-04T19:01:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/meia-bixinhos"/>
+    <title>Meia Bichinhos</title>
+    <s:type></s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/H16b7dcfec5124d158b7f151293f5b0c0U.jpg?v=1685667928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h2 style="font-weight: bold;">UMA MEIA DIVERTIDA E CHEIA DE PERSONALIDADE!</h2>
+<h3 style="font-weight: bold;">A Meia Bichinhos é perfeita para todos os momentos!</h3>
+<p>Dê um toque de humor ao seu dia a dia.<br><br></p>
+</div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Designsemnome_2_480x480_2102eac1-8ff8-4de5-9d61-4a682ef54b37.webp?v=1737601751" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex invert-desktop-flexibility">
+<div class="text-container">
+<h3 style="font-weight: bold;">Qualidade Premium!</h3>
+<p>Com estampas hilárias e cores vibrantes, ela é perfeita para quem gosta de se destacar e arrancar sorrisos por onde passa. Seja para animar o look ou presentear alguém especial, a Meia Bichinhos é garantia de boas risadas e muito estilo!<br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div style="text-align: center;" class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Designsemnome_3_480x480_ebcfc93f-7567-49fb-9704-4d6790218681.webp?v=1737601749" alt="Imagem de sandália" class="responsive-media"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image">
+<button class="action-button">QUERO ANDAR COM OS PÉS QUENTINHOS</button><br>
+</div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem --><!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos --><!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184" alt="Garantia de 7 dias" style="max-width: 150px; height: auto;">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h3 style="font-weight: bold;">Especificações:</h3>
+<p><span style="font-weight: 400;">Material: Lã.<br>Gênero aplicável: Unissex.<br>Função: Aquecer, conforto.<br>Tipo de meia: Casual.<br>Tamanho: Tamanho único (35-40).<br></span><span style="font-weight: 400;"></span></p>
+<!-- Primeira parte das especificações, com ícones --><!-- Informações das especificações adicionais -->
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de meia.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998188749018</id>
+      <title>Pombo</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>14:771#1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998188749018</id>
+      <title>Ganso</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>14:193#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998188749018</id>
+      <title>Ganso 2</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>14:173#3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998188749018</id>
+      <title>Pato</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku>14:1254#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7998558765274</id>
+    <published>2025-02-04T18:55:26-03:00</published>
+    <updated>2025-02-04T18:55:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/meia-smile"/>
+    <title>Meia Smile</title>
+    <s:type></s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/H609da08eaf7d4fac9b2b150ef13dfc30D.jpg?v=1685711168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            87.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div class="desktop-flex" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h2 style="font-weight: bold;">JÁ IMAGINOU UMA MEIA CHEIA DE HUMOR E PERSONALIDADE?</h2>
+<h3 style="font-weight: bold;">A Meia Smile é perfeita para todos os momentos!</h3>
+<p>Adicione um toque de diversão ao seu dia a dia.<br><br></p>
+</div>
+<div class="image-container"><img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Designsemnome_4_480x480_bd66fcb3-d928-4b61-aa75-684dc42c53a6.webp?v=1737602308"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop-flexibility" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Qualidade Premium!</h3>
+<p>Além de ser superdivertida, é feita com material macio e de alta qualidade, garantindo conforto o dia todo. Perfeita para dar um toque descontraído ao seu visual ou surpreender alguém com um presente único e divertido.<br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div class="image-container" style="text-align: center;">
+<img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Designsemnome_5_480x480_69f21a73-3648-48a5-8045-b26c5cceb6ea.webp?v=1737602307"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image">
+<button class="action-button">QUERO ANDAR COM OS PÉS QUENTINHOS</button><br>
+</div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem --><!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos --><!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img style="max-width: 150px; height: auto;" alt="Garantia de 7 dias" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h3 style="font-weight: bold;">Especificações:</h3>
+<p><span style="font-weight: 400;">Material: Lã.<br>Gênero aplicável: Unissex.<br>Função: Aquecer, conforto.<br>Tipo de meia: Casual.<br>Tamanho: Tamanho único (35-40).<br></span><span style="font-weight: 400;"></span></p>
+<!-- Primeira parte das especificações, com ícones --><!-- Informações das especificações adicionais -->
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de meia.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998558765274</id>
+      <title>Azul</title>
+      <s:price currency="BRL">87.90</s:price>
+      <s:sku>14:771#05;5:200000991#35-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998558765274</id>
+      <title>Preto</title>
+      <s:price currency="BRL">87.90</s:price>
+      <s:sku>14:193#02;5:200000991#35-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998558765274</id>
+      <title>Lima</title>
+      <s:price currency="BRL">87.90</s:price>
+      <s:sku>14:173#06;5:200000991#35-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998558765274</id>
+      <title>Verde</title>
+      <s:price currency="BRL">87.90</s:price>
+      <s:sku>14:1254#07;5:200000991#35-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998558765274</id>
+      <title>Vermelho</title>
+      <s:price currency="BRL">87.90</s:price>
+      <s:sku>14:365458#08;5:200000991#35-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998558765274</id>
+      <title>Rosa</title>
+      <s:price currency="BRL">87.90</s:price>
+      <s:sku>14:350850#09;5:200000991#35-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998558765274</id>
+      <title>Laranja</title>
+      <s:price currency="BRL">87.90</s:price>
+      <s:sku>14:350852#04;5:200000991#35-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998558765274</id>
+      <title>Roxo</title>
+      <s:price currency="BRL">87.90</s:price>
+      <s:sku>14:496#10;5:200000991#35-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998558765274</id>
+      <title>Branco</title>
+      <s:price currency="BRL">87.90</s:price>
+      <s:sku>14:29#01;5:200000991#35-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7998558765274</id>
+      <title>Amarelo</title>
+      <s:price currency="BRL">87.90</s:price>
+      <s:sku>14:366#03;5:200000991#35-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

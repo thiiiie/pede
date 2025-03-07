@@ -1,0 +1,61 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 Mar 2025 16:08:52 at https://pedealgodao.com.br/pages/contatohttps://pedealgodao.com.br/ https://pedealgodao.com.br/collections/ https://pedealgodao.com.br/pages/rastreio https://pedealgodao.com.br/pages/dicas-de-conservacao https://pedealgodao.com.br/pages/quem-somos https://pedealgodao.com.br/policies/shipping-policy https://pedealgodao.com.br/policies/refund-policy https://pedealgodao.com.br/policies/privacy-policy https://pedealgodao.com.br/policies/terms-of-service https://pedealgodao.com.br/ https://pedealgodao.com.br/products/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://pedealgodao.com.br/pages/contatohttps://pedealgodao.com.br/ https://pedealgodao.com.br/collections/ https://pedealgodao.com.br/pages/rastreio https://pedealgodao.com.br/pages/dicas-de-conservacao https://pedealgodao.com.br/pages/quem-somos https://pedealgodao.com.br/policies/shipping-policy https://pedealgodao.com.br/policies/refund-policy https://pedealgodao.com.br/policies/privacy-policy https://pedealgodao.com.br/policies/terms-of-service https://pedealgodao.com.br/ https://pedealgodao.com.br/products/ -O1 "C:\Meus Sites\PEDEALGODAO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:09:03	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/pages/contatohttps://pedealgodao.com.br/ (from primary/primary)
+16:13:30	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/gtm.js?id= (from https://pedealgodao.com.br/collections/)
+16:14:37	Warning: 	Moved Permanently for pedealgodao.com.br/cdn/shopifycloud/shopify/assets/storefront/load_feature-1060834584ef204397b1179782a1b090047ee4397cb627244ab89e03f65c4307.js
+16:14:37	Warning: 	Redirected link is identical because of 'URL Hack' option: pedealgodao.com.br/cdn/shopifycloud/shopify/assets/storefront/load_feature-1060834584ef204397b1179782a1b090047ee4397cb627244ab89e03f65c4307.js and https://pedealgodao.com.br/cdn/shopifycloud/shopify/assets/storefront/load_feature-1060834584ef204397b1179782a1b090047ee4397cb627244ab89e03f65c4307.js
+16:14:37	Warning: 	Warning moved treated for pedealgodao.com.br/cdn/shopifycloud/shopify/assets/storefront/load_feature-1060834584ef204397b1179782a1b090047ee4397cb627244ab89e03f65c4307.js (real one is https://pedealgodao.com.br/cdn/shopifycloud/shopify/assets/storefront/load_feature-1060834584ef204397b1179782a1b090047ee4397cb627244ab89e03f65c4307.js)
+16:14:37	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://pedealgodao.com.br/collections/)
+16:14:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/collections/window.location (from https://pedealgodao.com.br/collections/)
+16:14:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/collections/this.href (from https://pedealgodao.com.br/collections/)
+16:14:41	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/collections/POST (from https://pedealgodao.com.br/collections/)
+16:14:41	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/cdn (from https://pedealgodao.com.br/collections/)
+16:18:36	Warning: 	Moved Permanently for pedealgodao.com.br/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1400x.gif
+16:18:36	Warning: 	Redirected link is identical because of 'URL Hack' option: pedealgodao.com.br/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1400x.gif and https://pedealgodao.com.br/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1400x.gif
+16:18:36	Warning: 	Warning moved treated for pedealgodao.com.br/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1400x.gif (real one is https://pedealgodao.com.br/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1400x.gif)
+16:18:59	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/collections/meu-pet-charmoso.myshopify.com (from https://pedealgodao.com.br/collections/)
+16:18:59	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/collections/GET (from https://pedealgodao.com.br/collections/)
+16:18:59	Error: 	"Bad Request" (400) at link https://pedealgodao.com.br/cart/add.js (from https://pedealgodao.com.br/collections/)
+16:19:02	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/collections/window.location.href (from https://pedealgodao.com.br/collections/)
+16:19:02	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/collections/url (from https://pedealgodao.com.br/collections/)
+16:19:02	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/pages/window.location (from https://pedealgodao.com.br/pages/rastreio)
+16:19:02	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/pages/this.href (from https://pedealgodao.com.br/pages/rastreio)
+16:19:02	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/pages/POST (from https://pedealgodao.com.br/pages/rastreio)
+16:19:02	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/pages/meu-pet-charmoso.myshopify.com (from https://pedealgodao.com.br/pages/rastreio)
+16:19:02	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/pages/GET (from https://pedealgodao.com.br/pages/rastreio)
+16:19:02	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/pages/window.location.href (from https://pedealgodao.com.br/pages/rastreio)
+16:19:02	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/pages/url (from https://pedealgodao.com.br/pages/rastreio)
+16:19:04	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/policies/window.location (from https://pedealgodao.com.br/policies/shipping-policy)
+16:19:04	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/policies/this.href (from https://pedealgodao.com.br/policies/shipping-policy)
+16:19:04	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/policies/POST (from https://pedealgodao.com.br/policies/shipping-policy)
+16:19:04	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/policies/meu-pet-charmoso.myshopify.com (from https://pedealgodao.com.br/policies/shipping-policy)
+16:19:04	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/policies/GET (from https://pedealgodao.com.br/policies/shipping-policy)
+16:19:04	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/policies/window.location.href (from https://pedealgodao.com.br/policies/shipping-policy)
+16:19:04	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/policies/url (from https://pedealgodao.com.br/policies/shipping-policy)
+16:19:04	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/window.location (from https://pedealgodao.com.br/)
+16:19:04	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/this.href (from https://pedealgodao.com.br/)
+16:19:04	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/POST (from https://pedealgodao.com.br/)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/meu-pet-charmoso.myshopify.com (from https://pedealgodao.com.br/)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/GET (from https://pedealgodao.com.br/)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/window.location.href (from https://pedealgodao.com.br/)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/url (from https://pedealgodao.com.br/)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/products/window.location (from https://pedealgodao.com.br/products/)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/products/this.href (from https://pedealgodao.com.br/products/)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/products/POST (from https://pedealgodao.com.br/products/)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/products/meu-pet-charmoso.myshopify.com (from https://pedealgodao.com.br/products/)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/products/GET (from https://pedealgodao.com.br/products/)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/products/window.location.href (from https://pedealgodao.com.br/products/)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/products/url (from https://pedealgodao.com.br/products/)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/collections/a (from https://connect.facebook.net/en_US/fbevents.js)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/collections/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/collections/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+16:23:37	Error: 	"Not Found" (404) at link https://pedealgodao.com.br/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 minutes 44 seconds : 1386 links scanned, 1339 files written (124383370 bytes overall), 1308 files updated [80630355 bytes received at 45196 bytes/sec], 66468572 bytes transferred using HTTP compression in 235 files, ratio 15%, 17.3 requests per connection
+(44 errors, 6 warnings, 0 messages)

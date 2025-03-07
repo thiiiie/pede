@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pedealgodao.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pedealgodao.com.br/collections/pantufas.atom"/>
+  <title>Pé de Algodão</title>
+  <updated>2025-02-04T18:44:58-03:00</updated>
+  <author>
+    <name>Pé de Algodão</name>
+  </author>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7996219719898</id>
+    <published>2025-02-04T18:44:58-03:00</published>
+    <updated>2025-02-04T18:44:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/pantufa-space-1"/>
+    <title>Pantufa Space</title>
+    <s:type></s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/S8d2c14cdba684b52b2bc2eb9f001d4f8w.jpg?v=1685451557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            219.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div class="desktop-flex" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h2 style="font-weight: bold;">SABE AQUELA SENSAÇÃO ACONCHEGANTE E ACOLHEDORA?</h2>
+<h3 style="font-weight: bold;">A Pantufa Space veio trazê-la para você!</h3>
+<p>Relaxe no conforto da sua casa, com elegância e qualidade.<br><br></p>
+</div>
+<div class="image-container"><img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/1_480x480_fda1c442-92d1-42ac-924c-a76287a98ae0.webp?v=1738201340"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop-flexibility" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Estilosa e Quentinha!</h3>
+<p>a Pantufa Space oferece uma sensação aconchegante e macia aos seus pés, proporcionando o máximo de conforto para relaxar após um dia cansativo.<br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div class="image-container" style="text-align: center;">
+<img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/2_480x480_55877676-483e-4518-986b-fa5f09ff7655.jpg?v=1738201338"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem -->
+<div class="desktop-flex" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Qualidade Premium!</h3>
+<p><span>É a companhia perfeita para os seus momentos de descanso em casa, combinando conforto e um toque de estilo moderno. </span><span>Disponível nas cores Creme, Branco, Verde, Cinza, Marrom e Rosa. Ideal para relaxar em casa após um longo dia.</span><br><br></p>
+</div>
+<div class="image-container">
+<img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/3_480x480_318ff09f-0660-4ec8-b412-6a08d2d35524.webp?v=1738201337"><strong></strong>
+</div>
+</div>
+<!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos -->
+<div id="variant-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<h3 style="font-weight: bold;">CONFIRA A TABELA E GARANTA O TAMANHO IDEAL PARA VOCÊ</h3>
+<img class="responsive-media size-chart-image" alt="Tabela de Tamanhos" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Tabela_Pantufa_Space.jpg?v=1738201343">
+</div>
+<!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img style="max-width: 150px; height: auto;" alt="Garantia de 7 dias" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<!-- Informações das especificações adicionais -->
+<p style="margin-top: 15px;"><strong>Pantufa Space</strong><br>Material sola: acetato-vinilo de etileno<br>Gênero aplicável: masculino / feminino<br>Função: Conforto Extremo, Leveza Surpreendente, Amortecimento Avançado, Resistencia ao desgaste, Antiderrapante, Absorção ao choque, Fácil de Limpar<br>Cor: Creme, Branco, Verde, Cinza, Marrom e Rosa<br></p>
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de pantufas</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Creme / 36/37</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006152#cream yellow;200000124:1394#36-37(fit 35-36)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Creme / 38/39</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006152#cream yellow;200000124:200000288#38-39(fit 37-38)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Creme / 40/41</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006152#cream yellow;200000124:350262#40-41(fit 39-40)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Creme / 42/43</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006152#cream yellow;200000124:350262#40-41(fit 41-42)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Creme / 44/45</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006152#cream yellow;200000124:350262#40-41(fit 43-44)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Branco / 36/37</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006153#White;200000124:1394#36-37(fit 35-36)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Branco / 38/39</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006153#White;200000124:200000288#38-39(fit 37-38)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Branco / 40/41</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006153#White;200000124:350262#40-41(fit 39-40)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Branco / 42/43</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006153#White;200000124:350262#40-41(fit 41-42)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Branco / 44/45</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006153#White;200000124:350262#40-41(fit 43-44)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Verde / 36/37</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006154#green;200000124:1394#36-37(fit 35-36)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Verde / 38/39</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006154#green;200000124:200000288#38-39(fit 37-38)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Verde / 40/41</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006154#green;200000124:350262#40-41(fit 39-40)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Verde / 42/43</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006154#green;200000124:350262#40-41(fit 41-42)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Verde / 44/45</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200006154#green;200000124:350262#40-41(fit 41-42)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Cinza / 36/37</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200141872#grey;200000124:1394#36-37(fit 35-36)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Cinza / 38/39</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200141872#grey;200000124:200000288#38-39(fit 37-38)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Cinza / 40/41</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200141872#grey;200000124:350262#40-41(fit 39-40)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Cinza / 42/43</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200141872#grey;200000124:350262#40-41(fit 41-42)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Cinza / 44/45</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200141872#grey;200000124:350262#40-41(fit 43-44)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Marrom / 36/37</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200001438#brown;200000124:1394#36-37(fit 35-36)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Marrom / 38/39</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200001438#brown;200000124:200000288#38-39(fit 37-38)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Marrom / 40/41</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200001438#brown;200000124:350262#40-41(fit 39-40)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Marrom / 42/43</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200001438#brown;200000124:350262#40-41(fit 41-42)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Marrom / 44/45</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200001438#brown;200000124:350262#40-41(fit 43-44)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Rosa / 36/37</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200000195#pink;200000124:1394#36-37(fit 35-36)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Rosa / 38/39</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200000195#pink;200000124:200000288#38-39(fit 37-38)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Rosa / 40/41</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200000195#pink;200000124:350262#40-41(fit 39-40)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Rosa / 42/43</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200000195#pink;200000124:350262#40-41(fit 41-42)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996219719898</id>
+      <title>Rosa / 44/45</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>14:200000195#pink;200000124:350262#40-41(fit 43-44)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7996516401370</id>
+    <published>2025-02-04T18:30:22-03:00</published>
+    <updated>2025-02-04T18:30:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/pantufa-comfy"/>
+    <title>Pantufa Comfy</title>
+    <s:type></s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Designsemnome_cadba136-0940-4c56-a81f-45f3e1db0bc2.jpg?v=1685533202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            197.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h2 style="font-weight: bold;">SABE AQUELA SENSAÇÃO ACONCHEGANTE E ACOLHEDORA?</h2>
+<h3 style="font-weight: bold;">A Pantufa Comfy veio trazê-la para você!</h3>
+<p>Relaxe no conforto da sua casa, com elegância e qualidade.<br><br></p>
+</div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/2_480x480_9490894a-d351-4c7a-9a0b-d1cdf7bf82f6.webp?v=1738202771" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex invert-desktop-flexibility">
+<div class="text-container">
+<h3 style="font-weight: bold;">Estilosa e Quentinha!</h3>
+<p>Seu design moderno e minimalista se adapta a diversas ocasiões, e o material leve e respirável garante o bem-estar dos seus pés em qualquer estação.<br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div style="text-align: center;" class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/3_480x480_32e61b70-73a2-499a-90e1-b3e4c5315dac.webp?v=1738202769" alt="Imagem de sandália" class="responsive-media"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h3 style="font-weight: bold;">Qualidade Premium!</h3>
+<p><span>Com solado antiderrapante e fácil de calçar, a Pantufa Comfy é perfeita para o dia a dia. Desfrute de momentos de conforto e praticidade. Disponível nas cores Preto, Rosa e Verde. Ideal para relaxar em casa após um longo dia.</span><br><br></p>
+</div>
+<div class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/2_19c82e14-13b6-4b45-a65a-ac66340e6262.jpg?v=1738202768" alt="Imagem de sandália" class="responsive-media"><strong></strong>
+</div>
+</div>
+<!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;" id="variant-section">
+<h3 style="font-weight: bold;">CONFIRA A TABELA E GARANTA O TAMANHO IDEAL PARA VOCÊ</h3>
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Tabela_Pantufa_Comfy.png?v=1738202773" alt="Tabela de Tamanhos" class="responsive-media size-chart-image">
+</div>
+<!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184" alt="Garantia de 7 dias" style="max-width: 150px; height: auto;">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<!-- Informações das especificações adicionais -->
+<p style="margin-top: 15px;"><strong>Pantufa Comfy</strong><br>Material sola: acetato-vinilo de etileno<br>Gênero aplicável: masculino / feminino<br>Função: Conforto Extremo, Leveza Surpreendente, Amortecimento Avançado, Resistencia ao desgaste, Antiderrapante, Absorção ao choque, Fácil de Limpar<br>Cor: <span>Preto, Rosa e Verde</span><br></p>
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de pantufas</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996516401370</id>
+      <title>Preto / 36/37</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200001438#black--C;200000124:200000288#36-(for 22.5-23MM)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996516401370</id>
+      <title>Preto / 38/39</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200001438#black--C;200000124:350262#37-(for 23-23.5MM)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996516401370</id>
+      <title>Preto / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200001438#black--C;200000124:200001017#38-(for 23.5-24MM)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996516401370</id>
+      <title>Rosa / 36/37</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200000195#pink--C;200000124:200000288#36-(for 22.5-23MM)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996516401370</id>
+      <title>Rosa / 38/39</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200000195#pink--C;200000124:350262#37-(for 23-23.5MM)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996516401370</id>
+      <title>Rosa / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200000195#pink--C;200000124:200001017#38-(for 23.5-24MM)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996516401370</id>
+      <title>Verde / 36/37</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200006158#green--C;200000124:200000288#36-(for 22.5-23MM)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996516401370</id>
+      <title>Verde / 38/39</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200006158#green--C;200000124:350262#37-(for 23-23.5MM)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7996516401370</id>
+      <title>Verde / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200006158#green--C;200000124:200001017#38-(for 23.5-24MM)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7623898890458</id>
+    <published>2025-02-04T18:28:10-03:00</published>
+    <updated>2025-02-04T18:28:10-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/pantufa-flip-flops"/>
+    <title>Pantufa Flip Flops</title>
+    <s:type>pantufa</s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/S011c37b160bb4d25addbbde783878f18T.jpg?v=1651754312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong>pantufa<br>
+        <strong>Preço: </strong>
+            169.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h2 style="font-weight: bold;">SABE AQUELA SENSAÇÃO ACONCHEGANTE E ACOLHEDORA?</h2>
+<h3 style="font-weight: bold;">A Pantufa Flip Flops veio trazê-la para você!</h3>
+<p>Relaxe no conforto da sua casa, com elegância e qualidade.<br><br></p>
+</div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Sbac9ddd966d54e6d91721238245824de6.jpg?v=1738202425" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex invert-desktop-flexibility">
+<div class="text-container">
+<h3 style="font-weight: bold;">Estilosa e Quentinha!</h3>
+<p><span>O interior felpudo mantém os pés quentinhos, enquanto a sola antiderrapante garante segurança ao caminhar pela casa. Feitas para quem busca conforto e bem-estar para os pés.</span><br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div style="text-align: center;" class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/S98144f1fe7504fffa111aa2e26361991N_480x480_260f4a51-2372-4a68-b1d4-6d5bfe16476b.jpg?v=1738202426" alt="Imagem de sandália" class="responsive-media"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h3 style="font-weight: bold;">Qualidade Premium!</h3>
+<p><span>São ideais para relaxar em casa após um longo dia, assistir a um filme aconchegado no sofá ou simplesmente desfrutar de momentos de tranquilidade e conforto. Disponível nas cores Bege, Rosa, Cinza e Preto. Ideal para relaxar em casa após um longo dia.</span><br><br></p>
+</div>
+<div class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/S4220beabd7034b17ae7c92cb992a4d27O_480x480_6b4c24c6-e828-4435-b9d6-3ba81579f27e.jpg?v=1738202428" alt="Imagem de sandália" class="responsive-media"><strong></strong>
+</div>
+</div>
+<!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;" id="variant-section">
+<h3 style="font-weight: bold;">CONFIRA A TABELA E GARANTA O TAMANHO IDEAL PARA VOCÊ</h3>
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Tabela_Pantufa_Flip_Flops.png?v=1738202430" alt="Tabela de Tamanhos" class="responsive-media size-chart-image">
+</div>
+<!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184" alt="Garantia de 7 dias" style="max-width: 150px; height: auto;">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<!-- Informações das especificações adicionais -->
+<p style="margin-top: 15px;"><strong>Pantufa Flip Flop</strong><br>Material sola: acetato-vinilo de etileno<br>Gênero aplicável: masculino / feminino<br>Função: Conforto Extremo, Leveza Surpreendente, Amortecimento Avançado, Resistencia ao desgaste, Antiderrapante, Absorção ao choque, Fácil de Limpar<br>Cor: <span>Bege, Rosa, Cinza e Preto</span><br></p>
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de pantufas</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7623898890458</id>
+      <title>Bege / 36/37</title>
+      <s:price currency="BRL">169.90</s:price>
+      <s:sku>14:200013901#B-Beige;200000124:1663#36-37(suggest 35-36)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7623898890458</id>
+      <title>Rosa / 36/37</title>
+      <s:price currency="BRL">169.90</s:price>
+      <s:sku>14:200013902#B-Pink;200000124:1663#36-37(suggest 35-36)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7623898890458</id>
+      <title>Cinza / 36/37</title>
+      <s:price currency="BRL">169.90</s:price>
+      <s:sku>14:201447513#B-Grey;200000124:1663#36-37(suggest 35-36)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7623898890458</id>
+      <title>Preto / 36/37</title>
+      <s:price currency="BRL">169.90</s:price>
+      <s:sku>14:201447598#B-Black;200000124:1663#36-37(suggest 35-36)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7623898890458</id>
+      <title>Bege / 38/39</title>
+      <s:price currency="BRL">169.90</s:price>
+      <s:sku>14:200013901#B-Beige;200000124:200000295#38-39(suggest 37-38)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7623898890458</id>
+      <title>Rosa / 38/39</title>
+      <s:price currency="BRL">169.90</s:price>
+      <s:sku>14:200013902#B-Pink;200000124:200000295#38-39(suggest 37-38)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7623898890458</id>
+      <title>Cinza / 38/39</title>
+      <s:price currency="BRL">169.90</s:price>
+      <s:sku>14:201447513#B-Grey;200000124:200000295#38-39(suggest 37-38)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7623898890458</id>
+      <title>Preto / 38/39</title>
+      <s:price currency="BRL">169.90</s:price>
+      <s:sku>14:201447598#B-Black;200000124:200000295#38-39(suggest 37-38)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7623898890458</id>
+      <title>Bege / 40/41</title>
+      <s:price currency="BRL">169.90</s:price>
+      <s:sku>14:200013901#B-Beige;200000124:200000296#40-41(suggest 39-40)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7623898890458</id>
+      <title>Rosa / 40/41</title>
+      <s:price currency="BRL">169.90</s:price>
+      <s:sku>14:200013902#B-Pink;200000124:200000296#40-41(suggest 39-40)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7623898890458</id>
+      <title>Cinza / 40/41</title>
+      <s:price currency="BRL">169.90</s:price>
+      <s:sku>14:201447513#B-Grey;200000124:200000296#40-41(suggest 39-40)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7623898890458</id>
+      <title>Preto / 40/41</title>
+      <s:price currency="BRL">169.90</s:price>
+      <s:sku>14:201447598#B-Black;200000124:200000296#40-41(suggest 39-40)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/6789022351522</id>
+    <published>2025-02-04T18:27:32-03:00</published>
+    <updated>2025-02-04T18:27:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/pantufa-pelucia-bariloche"/>
+    <title>Pantufa Pelúcia Bariloche</title>
+    <s:type>Pantufa</s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/products/H9eeee48c77d24e4d8374774a9d898b65F.jpg?v=1622140034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong>Pantufa<br>
+        <strong>Preço: </strong>
+            197.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h2 style="font-weight: bold;">SABE AQUELA SENSAÇÃO ACONCHEGANTE E ACOLHEDORA?</h2>
+<h3 style="font-weight: bold;">A Pantufa Pelúcia Bariloche veio trazê-la para você!</h3>
+<p>Relaxe no conforto da sua casa, com elegância e qualidade.<br><br></p>
+</div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/5_480x480_c09c88f1-f428-4768-a61d-2b33136413bc.webp?v=1738201803" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex invert-desktop-flexibility">
+<div class="text-container">
+<h3 style="font-weight: bold;">Estilosa e Quentinha!</h3>
+<p>O solado resistente e antiderrapante oferece segurança ao caminhar, tornando essa pantufa perfeita para quem busca bem-estar e sofisticação dentro de casa. Aproveite cada instante de relaxamento com um toque de elegância e conforto absoluto.<br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div style="text-align: center;" class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Heea0a6ebb2ad405ea507ccd0b098a839S_480x480_8f6f07ce-832e-4822-b0cf-5e52a715925e.webp?v=1738201801" alt="Imagem de sandália" class="responsive-media"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h3 style="font-weight: bold;">Qualidade Premium!</h3>
+<p><span>Seu design moderno combina tons neutros e terrosos que se adaptam a diferentes estilos, garantindo um visual charmoso até mesmo nos momentos de descanso. Disponível nas cores Rosa, Bege, Cáqui, Vermelho, Cinza Escuro e Cinza. Ideal para relaxar em casa após um longo dia.</span><br><br></p>
+</div>
+<div class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/11_480x480_02dcc891-c65a-4d3f-b42f-9d9600ffaf25.webp?v=1738201800" alt="Imagem de sandália" class="responsive-media"><strong></strong>
+</div>
+</div>
+<!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop --><!-- Tabela de Tamanhos -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;" id="variant-section">
+<h3 style="font-weight: bold;">CONFIRA A TABELA E GARANTA O TAMANHO IDEAL PARA VOCÊ</h3>
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Tabela_Pantufa_Bariloche.png?v=1738201805" alt="Tabela de Tamanhos" class="responsive-media size-chart-image">
+</div>
+<!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184" alt="Garantia de 7 dias" style="max-width: 150px; height: auto;">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<!-- Informações das especificações adicionais -->
+<p style="margin-top: 15px;"><strong>Pantufa Pelúcia Bariloche</strong><br>Material sola: acetato-vinilo de etileno<br>Gênero aplicável: masculino / feminino<br>Função: Conforto Extremo, Leveza Surpreendente, Amortecimento Avançado, Resistencia ao desgaste, Antiderrapante, Absorção ao choque, Fácil de Limpar<br>Cor: Rosa, Bege, Cáqui, Vermelho, Cinza Escuro e Cinza.<br></p>
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de pantufas</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Rosa / 36/37</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:771#Pink;200000124:200000334#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Rosa / 38/39</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:771#Pink;200000124:200000898#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Rosa / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:771#Pink;200000124:100013888#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Rosa / 42/43</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:771#Pink;200000124:200000337#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Rosa / 44/45</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:771#Pink;200000124:100010487#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Bege / 36/37</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:9859092#Beige;200000124:200000334#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Bege / 38/39</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:9859092#Beige;200000124:200000898#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Bege / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:9859092#Beige;200000124:100013888#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Bege / 42/43</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:9859092#Beige;200000124:200000337#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Bege / 44/45</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:9859092#Beige;200000124:100010487#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cáqui / 36/37</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:48622057#Khaki;200000124:200000334#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cáqui / 38/39</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:48622057#Khaki;200000124:200000898#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cáqui / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:48622057#Khaki;200000124:100013888#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cáqui / 42/43</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:48622057#Khaki;200000124:200000337#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cáqui / 44/45</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:48622057#Khaki;200000124:100010487#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Vermelho / 36/37</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200004870#red;200000124:200000334#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Vermelho / 38/39</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200004870#red;200000124:200000898#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Vermelho / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200004870#red;200000124:100013888#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Vermelho / 42/43</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200004870#red;200000124:200000337#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Vermelho / 44/45</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200004870#red;200000124:100010487#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cinza Escuro / 36/37</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200013901#Dark gray;200000124:200000334#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cinza Escuro / 38/39</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200013901#Dark gray;200000124:200000898#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cinza Escuro / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200013901#Dark gray;200000124:100013888#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cinza Escuro / 42/43</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200013901#Dark gray;200000124:200000337#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cinza Escuro / 44/45</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200013901#Dark gray;200000124:100010487#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cinza / 36/37</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200013902#gray;200000124:200000334#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cinza / 38/39</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200013902#gray;200000124:200000898#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cinza / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200013902#gray;200000124:100013888#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cinza / 42/43</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200013902#gray;200000124:200000337#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6789022351522</id>
+      <title>Cinza / 44/45</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>14:200013902#gray;200000124:100010487#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

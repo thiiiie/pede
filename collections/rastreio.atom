@@ -1,0 +1,2245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://pedealgodao.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://pedealgodao.com.br/collections/rastreio.atom"/>
+  <title>Pé de Algodão</title>
+  <updated>2025-02-04T18:19:41-03:00</updated>
+  <author>
+    <name>Pé de Algodão</name>
+  </author>
+  <entry>
+    <id>https://pedealgodao.com.br/products/8440428396762</id>
+    <published>2025-02-04T18:19:41-03:00</published>
+    <updated>2025-02-04T18:19:41-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/sandalia-partner"/>
+    <title>Sandália Partner</title>
+    <s:type>Sandalia Nuvem 40</s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/sandalia-partner-pedealgodao-verde.jpg?v=1739366992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong>Sandalia Nuvem 40<br>
+        <strong>Preço: </strong>
+            184.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo da imagem no mobile */
+    .button-below-image {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo da imagem no desktop */
+    .button-below-image {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- PRIMEIRA SEÇÃO com layout flexível no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h2 style="font-weight: bold;">SABE AQUELA SENSAÇÃO DE ANDAR SEM DORES?</h2>
+<h3 style="font-weight: bold;">Conforto para todos os momentos</h3>
+<p>Alivie as <strong>dores dos pés</strong> e pernas, material super confortável e macio.<br><br></p>
+</div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/S4c470b0a0c1241cc90b75bf48f004f73j_35cce3ea-d086-4716-b924-6917f1015c3d.webp?v=1733767660" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- SEGUNDA SEÇÃO foto - invertido apenas no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex invert-desktop-flexibility">
+<div class="text-container">
+<h3 style="font-weight: bold;">Flexibilidade e maciez!</h3>
+<p>A Sandália Partner foi feita para longas horas de uso concedendo conforto que seus pés merecem.<br><br></p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div style="text-align: center;" class="image-container">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/S1d74c0570ece40559d93ca1134a52b2cJ_1.webp?v=1733767659" alt="Imagem de sandália" class="responsive-media"> <!-- Botão abaixo da imagem no mobile -->
+<div class="button-below-image"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+</div>
+<!-- TERCEIRA SEÇÃO com Texto e Imagem -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex">
+<div class="text-container">
+<h3 style="font-weight: bold;">Cores pensando em você!</h3>
+<p>Traga um toque de cor e estilo para o seu dia a dia! Disponível nas cores; preto, rosa, bege e verde, para conquistar todos os gostos!<br><br></p>
+</div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/WhatsApp_Image_2025-02-25_at_09.37.06.jpg?v=1740521616" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- QUARTA SEÇÃO foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;" class="desktop-flex invert-desktop-flexibility">
+<div class="text-container">
+<h3><strong>Estilo e Conforto!</strong></h3>
+<p><span>A Sandália Partner é a combinação perfeita de estilo e conforto, feita com materiais de alta qualidade para garantir durabilidade e um visual impecável por muito tempo.</span></p>
+</div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/WhatsApp_Image_2025-02-25_at_09.37.06_1.jpg?v=1740521614" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- Tabela de Tamanhos -->
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;" id="variant-section">
+<h3 style="font-weight: bold;">CONFIRA A TABELA E GARANTA O TAMANHO IDEAL PARA VOCÊ</h3>
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Tabela_Sandalia_Partner.jpg?v=1733767829" alt="Tabela de Tamanhos" class="responsive-media size-chart-image">
+</div>
+<!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184" alt="Garantia de 7 dias" style="max-width: 150px; height: auto;">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h3 style="font-weight: bold;">Especificações:</h3>
+<!-- Primeira parte das especificações, com ícones -->
+<div class="specification-item">
+<span class="specification-icon">✔️</span> <span>Engrossado acetato-vinilo de etileno de sola elástica, 4cm sola grossa, mais resistente ao desgaste, leve e elástica, alivia a pressão do pé;</span>
+</div>
+<div class="specification-item">
+<span class="specification-icon">✔️</span> <span>Se seus pés são mais largos, recomenda-se você escolher um tamanho maior.</span>
+</div>
+<!-- Informações das especificações adicionais -->
+<p style="margin-top: 15px;"><strong>Sandália Partner</strong><br>Material sola: acetato-vinilo de etileno<br>Gênero aplicável: masculino / feminino<br>Função: Conforto Extremo, Leveza Surpreendente, Amortecimento Avançado, Resistencia ao desgaste, Antiderrapante, Absorção ao choque, Fácil de Limpar<br>Cor: Preto, Rosa, Bege, Verde<br>Chinelo Nuvem</p>
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de sandálias</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Verde / 36</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Verde / 37</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Verde / 38</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Verde / 39</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Verde / 40</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Verde / 41</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Verde / 42</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Verde / 43</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Verde / 44</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Verde / 45</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Preto / 36</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>14:1745#Black;200000124:200000363#36(22.5cm);200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Preto / 37</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>14:1745#Black;200000124:100010481#37(23cm);200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Preto / 38</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>14:1745#Black;200000124:200001016#38(23.5cm);200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Preto / 39</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>14:1745#Black;200000124:200000333#39(24cm);200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Preto / 40</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>14:1745#Black;200000124:200001017#40(24.5cm);200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Preto / 41</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>14:1745#Black;200000124:200000334#41(25cm);200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Preto / 42</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Black #42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Preto / 43</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Black #43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Preto / 44</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Black #44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Preto / 45</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Black #45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Bege / 36</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>14:88490676#Khaki;200000124:200000363#36(22.5cm);200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Bege / 37</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>14:88490676#Khaki;200000124:100010481#37(23cm);200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Bege / 38</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>14:88490676#Khaki;200000124:200001016#38(23.5cm);200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Bege / 39</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>14:88490676#Khaki;200000124:200000333#39(24cm);200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Bege / 40</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>14:88490676#Khaki;200000124:200001017#40(24.5cm);200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Bege / 41</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>14:88490676#Khaki;200000124:200000334#41(25cm);200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Bege / 42</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Khaki #42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Bege / 43</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Khaki #43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Bege / 44</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Khaki #44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Bege / 45</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Khaki #45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Rosa / 36</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Rosa / 37</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Rosa / 38</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Rosa / 39</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Rosa / 40</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Rosa / 41</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Rosa / 42</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Rosa / 43</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Rosa / 44</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8440428396762</id>
+      <title>Rosa / 45</title>
+      <s:price currency="BRL">184.90</s:price>
+      <s:sku>Verde 45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/8732997189850</id>
+    <published>2024-12-02T09:31:52-03:00</published>
+    <updated>2024-12-02T09:31:52-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/chinelo-anatomico-pe-de-algodao-1"/>
+    <title>Chinelo Anatômico Pé de Algodão</title>
+    <s:type></s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/chinelo-anatomico-laranja_d10bb734-82dc-47ac-910f-6adc2e07c549.jpg?v=1737985156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            157.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo do vídeo no mobile */
+    .button-below-video {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Inverte a ordem da seção de flexibilidade na versão desktop */
+    .invert-desktop-flexibility {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo do vídeo no desktop */
+    .button-below-video {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- Primeira Seção com layout flexível no desktop -->
+<div class="desktop-flex" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h2 style="font-weight: bold;">SABE AQUELA SENSAÇÃO DE ALÍVIO E CONFORTO?</h2>
+<h3 style="font-weight: bold;">O Chinelo Anatômico veio proporcionar essa experiência!</h3>
+<p>Feito com materiais leves e flexíveis, o chinelo oferece uma sensação de liberdade e leveza em cada passo.<br><br></p>
+</div>
+<div class="image-container"><img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Sdff065b6f45244adbe4b7ffcb67fb083X.webp?v=1733092775"></div>
+</div>
+<!-- Segunda Seção (Vídeo 1) com layout flexível no desktop - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">INDICADO PARA TODOS</h3>
+<p>O Chinelo Anatômico Pé de Algodão possuí design anatômico e se adapta perfeitamente ao formato do pé, proporcionando alívio imediato e distribuindo o peso de maneira equilibrada, especialmente nas áreas de maior pressão, como o calcanhar e a planta do pé.</p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div class="video-container">
+<video class="responsive-media" playsinline="" loop="loop" muted="" autoplay="autoplay">
+                <source type="video/mp4" src="https://cdn.shopify.com/videos/c/o/v/5abc6d1624ee42ecb58358dcabbda21d.mp4">
+                Seu navegador não suporta a reprodução de vídeos.
+            </source></video> <!-- Botão abaixo do vídeo no mobile -->
+<div class="button-below-video"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+</div>
+<!-- Nova Seção com Texto e Imagem -->
+<div class="desktop-flex" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Cores pensando em você!</h3>
+<p> Cores vibrantes que combinam com qualquer look, disponível no Rosa, Cinza, Branco, Amarelo, Laranja, Preto, Bege e Verde. Seja qual for a sua preferência, há uma cor que combina com o seu estilo e necessidades.<br><br></p>
+</div>
+<div class="image-container"><img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Se44d265ad86940bab7fe37855c5fc4d3c.webp?v=1733092774"></div>
+</div>
+<!-- Seção foto de flexibilidade com layout flexível no desktop - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop-flexibility" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Flexibilidade e maciez!</h3>
+<p>Se você está buscando um chinelo que une praticidade, estilo e cuidados com a saúde dos seus pés, o <strong>Chinelo Anatômico Pé de Algodão</strong> é a escolha perfeita. Ele vai transformar a maneira como você cuida dos seus pés no dia a dia.<br><br></p>
+</div>
+<div class="image-container"><img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/S27abda755ca947688159320fbf0100dez.jpg?v=1733093257"></div>
+</div>
+<!-- Tabela de Tamanhos -->
+<div id="variant-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<h3 style="font-weight: bold;">CONFIRA A TABELA E GARANTA O TAMANHO IDEAL PARA VOCÊ</h3>
+<img class="responsive-media size-chart-image" alt="Tabela de Tamanhos" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Chinelo_Anatomico.jpg?v=1733140410">
+</div>
+<!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img style="max-width: 150px; height: auto;" alt="Garantia de 7 dias" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h3 style="font-weight: bold;">Especificações:</h3>
+<!-- Primeira parte das especificações, com ícones -->
+<div class="specification-item">
+<span class="specification-icon">✔️</span> <span>Engrossado acetato-vinilo de etileno de sola elástica, 4cm sola grossa, mais resistente ao desgaste, leve e elástica, alivia a pressão do pé;</span>
+</div>
+<div class="specification-item">
+<span class="specification-icon">✔️</span> <span>Se seus pés são mais largos, recomenda-se você escolher um tamanho maior.</span>
+</div>
+<!-- Informações das especificações adicionais -->
+<p style="margin-top: 15px;"><strong>Chinelo Anatômico Pé de Algodão</strong><br>Material sola: acetato-vinilo de etileno<br>Gênero aplicável: masculino / feminino<br>Função: Conforto Extremo, Leveza Surpreendente, Amortecimento Avançado, Resistencia ao desgaste, Antiderrapante, Absorção ao choque, Fácil de Limpar<br>Cor: Rosa, Cinza, Branco, Amarelo, Laranja, Preto, Bege e Verde<br>Chinelo Nuvem</p>
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de chinelos</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Laranja / 36/37</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:350852;200000124:200000284#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Laranja / 38/39</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:350852;200000124:153#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Laranja / 40/41</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:350852;200000124:200000285#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Laranja / 42/43</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:350852;200000124:698#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Laranja / 44/45</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:350852;200000124:200000286#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Laranja / 46/47</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>laranja 36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Preto / 36/37</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:193;200000124:200000284#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Preto / 38/39</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:193;200000124:153#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Preto / 40/41</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:193;200000124:200000285#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Preto / 42/43</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:193;200000124:698#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Preto / 44/45</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:193;200000124:200000286#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Preto / 46/47</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>preto 46-47</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Verde / 36/37</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:175;200000124:200000284#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Verde / 38/39</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:175;200000124:153#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Verde / 40/41</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:175;200000124:200000285#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Verde / 42/43</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:175;200000124:698#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Verde / 44/45</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:175;200000124:200000286#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Verde / 46/47</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>verde 46-47</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Bege / 36/37</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:200001438;200000124:200000284#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Bege / 38/39</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:200001438;200000124:153#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Bege / 40/41</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:200001438;200000124:200000285#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Bege / 42/43</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:200001438;200000124:698#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Bege / 44/45</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:200001438;200000124:200000286#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Bege / 46/47</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>branco 46-47</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Rosa / 36/37</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:1052;200000124:200000284#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Rosa / 38/39</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:1052;200000124:153#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Rosa / 40/41</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:1052;200000124:200000285#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Rosa / 42/43</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:1052;200000124:698#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Rosa / 44/45</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:1052;200000124:200000286#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Rosa / 46/47</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>rosa 46-47</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Cinza / 36/37</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:200000195#Grey;200000124:200000284#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Cinza / 38/39</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:200000195#Grey;200000124:153#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Cinza / 40/41</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:200000195#Grey;200000124:200000285#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Cinza / 42/43</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:200000195#Grey;200000124:698#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Cinza / 44/45</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:200000195#Grey;200000124:200000286#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Cinza / 46/47</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>46-47</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Branco / 36/37</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:29;200000124:200000284#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Branco / 38/39</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:29;200000124:153#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Branco / 40/41</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:29;200000124:200000285#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Branco / 42/43</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:29;200000124:698#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Branco / 44/45</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:29;200000124:200000286#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Branco / 46/47</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>branco 46-47</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Amarelo / 36/37</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:366;200000124:200000284#36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Amarelo / 38/39</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:366;200000124:153#38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Amarelo / 40/41</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:366;200000124:200000285#40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Amarelo / 42/43</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:366;200000124:698#42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Amarelo / 44/45</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>14:366;200000124:200000286#44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/8732997189850</id>
+      <title>Amarelo / 46/47</title>
+      <s:price currency="BRL">157.90</s:price>
+      <s:sku>amarelo 46-47</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/7627997741274</id>
+    <published>2022-05-09T09:46:34-03:00</published>
+    <updated>2022-05-09T09:46:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/sandalia-hold"/>
+    <title>Sandália Hold</title>
+    <s:type>Sandalia Nuvem 36</s:type>
+    <s:vendor>Wiio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/sandalia-hold-pe-de-algodao-rosa.jpg?v=1737662233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Wiio<br>
+        <strong>Tipo: </strong>Sandalia Nuvem 36<br>
+        <strong>Preço: </strong>
+            197.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo do vídeo no mobile */
+    .button-below-video {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo do vídeo no desktop */
+    .button-below-video {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<!-- Nova Seção - Imagem Informativa com bordas arredondadas no topo -->
+<div style="text-align: center; margin-bottom: 20px;"><br></div>
+<!-- Primeira Seção com layout flexível no desktop -->
+<div class="desktop-flex" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h2 style="font-weight: bold;">SABE AQUELA SENSAÇÃO DE ANDAR SEM DORES?</h2>
+<h3 style="font-weight: bold;">Conforto para todos os momentos</h3>
+<p>Alivie as <strong>dores dos pés</strong> e pernas, material super confortável e macio.<br><br></p>
+</div>
+<div class="image-container"><img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/1_60db6614-aef1-463d-9000-56cce64c97fe.jpg?v=1731002526"></div>
+</div>
+<!-- Segunda Seção (Vídeo 1) com layout flexível no desktop - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">INDICADO PARA TODOS</h3>
+<p>A Sandália Hold foi pensada para o seu conforto! Feita com materiais de alta qualidade, ela oferece um suporte firme e seguro, enquanto a sola antiderrapante garante estabilidade em diversos tipos de superfície.</p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div class="video-container">
+<video class="responsive-media" playsinline="" loop="loop" muted="" autoplay="autoplay">
+                <source type="video/mp4" src="https://cdn.shopify.com/videos/c/o/v/607ee7a9e6a24d37bad538c1b9e7a00c.mp4">
+                Seu navegador não suporta a reprodução de vídeos.
+            </source></video> <!-- Botão abaixo do vídeo no mobile -->
+<div class="button-below-video"><button class="action-button">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+</div>
+<!-- Nova Seção com Texto e Imagem -->
+<div class="desktop-flex" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Tiras ajustáveis!</h3>
+<p>Com tiras delicadas e flexíveis, possuí a capacidade de se adaptar melhor ao seu pé. A sandália é uma opção estilosa para quem não abre mão de praticidade e bem-estar.<br><br></p>
+</div>
+<div class="image-container"><img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/2_50fd9fbb-330e-436a-8494-78a7b53d9a93.jpg?v=1731002526"></div>
+</div>
+<!-- Seção de comparação (Vídeo 2) com layout flexível no desktop - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Ainda em dúvida? Então olha a sua sandália de pertinho com a Luana:</h3>
+</div>
+<div class="video-container"><video class="responsive-media video-2" playsinline="" controls="controls" muted="" autoplay="autoplay">
+                <source type="video/mp4" src="https://cdn.shopify.com/videos/c/o/v/ad40ecbbad9846dca73ccc8cff72a3a8.mp4">
+                Seu navegador não suporta a reprodução de vídeos.
+            </source></video></div>
+</div>
+<!-- Tabela de Tamanhos -->
+<div id="variant-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<h3 style="font-weight: bold;">CONFIRA A TABELA E GARANTA O TAMANHO IDEAL PARA VOCÊ</h3>
+<img class="responsive-media size-chart-image" alt="Tabela de Tamanhos" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/hold_b434e60b-6f15-4c34-864b-7fc0610de125.jpg?v=1738952899">
+</div>
+<!-- Garantia -->
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<img style="max-width: 150px; height: auto;" alt="Garantia de 7 dias" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_17.png?v=1730315184">
+<h3 style="font-weight: bold; margin-top: 10px; color: white;">Satisfação total ou seu dinheiro de volta</h3>
+<p style="color: white;">Compre agora e se não gostar devolvemos seu dinheiro, <strong>sem qualquer contestação, custo ou burocracia.</strong></p>
+</div>
+<!-- Nova Seção de Especificações -->
+<div class="specifications-container">
+<h3 style="font-weight: bold;">Especificações:</h3>
+<!-- Primeira parte das especificações, com ícones -->
+<div class="specification-item">
+<span class="specification-icon">✔️</span> <span>Engrossado acetato-vinilo de etileno de sola elástica, 4cm sola grossa, mais resistente ao desgaste, leve e elástica, alivia a pressão do pé;</span>
+</div>
+<div class="specification-item">
+<span class="specification-icon">✔️</span> <span>Se seus pés são mais largos, recomenda-se você escolher um tamanho maior.</span>
+</div>
+<!-- Informações das especificações adicionais -->
+<p style="margin-top: 15px;"><strong>Sandália Hold</strong><br>Material sola: acetato-vinilo de etileno<br>Gênero aplicável: masculino / feminino<br>Função: ventilar, antiderrapante, resistente ao desgaste, absorção de choque, antiestático<br>Cor: Bege, Cinza, Rosa, Laranja, Verde, Preto<br>Chinelo Nuvem</p>
+<h3 style="font-weight: bold; margin-top: 20px;">Pacote Inclui:</h3>
+<p>1(um) * par de sandálias</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Laranja / 35/36</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Laranja / 37/38</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Laranja / 39/40</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Laranja / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>Laranja 40/41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Laranja / 42/43</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>Laranja 42/43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Laranja / 44/45</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>Laranja 44/45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Preto / 35/36</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Preto / 37/38</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Preto / 39/40</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Preto / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Preto / 42/43</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Preto / 44/45</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Bege / 35/36</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Bege / 37/38</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Bege / 39/40</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Bege / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Bege / 42/43</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Bege / 44/45</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Rosa / 35/36</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Rosa / 37/38</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Rosa / 39/40</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Rosa / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>Rosa 40/41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Rosa / 42/43</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>Rosa 42/43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Rosa / 44/45</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>Rosa 44/45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Verde / 35/36</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>Verde 35/36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Verde / 37/38</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>Verde 37/38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Verde / 39/40</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>Verde 39/40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Verde / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Verde / 42/43</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Verde / 44/45</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Cinza / 35/36</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Cinza / 37/38</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Cinza / 39/40</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku>WX1353.15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Cinza / 40/41</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Cinza / 42/43</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/7627997741274</id>
+      <title>Cinza / 44/45</title>
+      <s:price currency="BRL">197.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://pedealgodao.com.br/products/6686191648930</id>
+    <published>2021-04-14T18:42:13-03:00</published>
+    <updated>2021-04-14T18:42:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://pedealgodao.com.br/products/sandalia-anatomica-pe-de-algodao"/>
+    <title>Sandália Anatômica Pé de Algodão</title>
+    <s:type>Sandalia Nuvem 01</s:type>
+    <s:vendor>Pé de Algodão</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/sandalia-anatomica-pedealgodao-bege_2.jpg?v=1727188419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Pé de Algodão<br>
+        <strong>Tipo: </strong>Sandalia Nuvem 01<br>
+        <strong>Preço: </strong>
+            159.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+/* Estilos para ajustar imagens e vídeos em desktop e mobile */
+.responsive-media {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/* Centralização de texto no mobile */
+@media (max-width: 1023px) {
+    .text-container {
+        text-align: center;
+    }
+    /* Exibe o botão abaixo do vídeo no mobile */
+    .button-below-video {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /* Esconde o botão abaixo do texto no mobile */
+    .button-below-text {
+        display: none;
+    }
+}
+/* Layout lado a lado para desktop */
+@media (min-width: 1024px) {
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .text-container, .image-container, .video-container {
+        flex: 1;
+        padding: 10px;
+        text-align: center; /* Centraliza o texto em todas as seções */
+    }
+    /* Ajuste do vídeo 2 para ser maior no desktop */
+    .video-2 {
+        max-width: 70%; /* Ajuste o percentual conforme necessário para o vídeo 2 no desktop */
+    }
+    /* Ajuste da imagem da tabela de tamanhos para ser menor no desktop */
+    .size-chart-image {
+        max-width: 50%; /* Ajuste o percentual conforme necessário para o desktop */
+    }
+    /* Inverte a ordem do conteúdo na versão desktop para as seções 2 e 4 */
+    .invert-desktop {
+        flex-direction: row-reverse;
+    }
+    /* Exibe o botão abaixo do texto no desktop */
+    .button-below-text {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* Esconde o botão abaixo do vídeo no desktop */
+    .button-below-video {
+        display: none;
+    }
+}
+/* Estilo do botão */
+.action-button {
+    display: block;
+    margin: 20px auto 0; /* Centraliza o botão e adiciona espaçamento superior */
+    padding: 10px 20px;
+    background-color: #08d505;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+/* Estilos para a seção de especificações */
+.specifications-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.specification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.specification-icon {
+    color: #6a0dad;
+    font-size: 18px;
+}
+</style>
+<!-- Primeira Seção com layout flexível no desktop e responsivo no mobile -->
+<style>
+    .desktop-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: #f7f7f7;
+        padding: 20px;
+        border-radius: 15px;
+        margin-top: 20px;
+        flex-wrap: wrap;
+    }
+    .text-container {
+        flex: 1;
+        min-width: 300px;
+        padding-right: 20px;
+    }
+    .video-container {
+        flex: 1;
+        min-width: 300px;
+        text-align: center;
+    }
+    video {
+        width: 100%;
+        border-radius: 10px;
+    }
+    /* Ajuste para mobile */
+    @media (max-width: 768px) {
+        .desktop-flex {
+            flex-direction: column;
+            text-align: center;
+        }
+        .text-container {
+            padding-right: 0;
+        }
+    }
+</style>
+<div class="desktop-flex">
+<div class="text-container">
+<h2 style="font-weight: bold;">SABE AQUELA SENSAÇÃO DE ANDAR SEM DORES?</h2>
+  <h3 style="font-weight: bold;">Conforto que abraça os pés</h3>
+<p>Sandália anatômica e flexível que se ajusta perfeitamente nos pés.<br><br></p>
+</div>
+<div class="image-container"><img src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/sandalia-anatomica-pedealgodao-maciez_2.jpg?v=1727188419" alt="Imagem de sandália" class="responsive-media"></div>
+</div>
+<!-- Segunda Seção (Vídeo 1) com layout flexível no desktop - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Alívio das dores</h3>
+<p>A sola grossa entrega uma sensação de amortecimento nos pés.</p>
+<!-- Botão abaixo do texto no desktop -->
+<div class="button-below-text"><button class="action-button" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+<div class="video-container">
+<video class="responsive-media" playsinline="" loop="loop" muted="" autoplay="autoplay">
+                <source type="video/mp4" src="https://cdn.shopify.com/videos/c/o/v/686811f6620f4843b75963b2a67e046f.mp4">
+                Seu navegador não suporta a reprodução de vídeos.
+            </source></video> <!-- Botão abaixo do vídeo no mobile -->
+<div class="button-below-video"><button class="action-button" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });">QUERO ANDAR CONFORTÁVEL</button></div>
+</div>
+</div>
+<!-- Nova Seção com Texto e Imagem -->
+<div class="desktop-flex" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Leveza!</h3>
+<p>São apenas 120g de puro conforto! Tão leve que você não vai sentir que está usando uma sandália.<br><br></p>
+</div>
+<div class="image-container"><img class="responsive-media" alt="Imagem de sandália" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Design_sem_nome_51159f7c-de50-49f1-a62a-0ebeffdb482e.jpg?v=1738612612"></div>
+</div>
+<!-- Segunda Seção (Vídeo 1) com layout flexível no desktop - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Versátil</h3>
+<p>Use para qualquer ocasião, desde a academia até o happy hour.</p>
+</div>
+<div class="video-container"><video class="responsive-media" playsinline="" loop="loop" muted="" autoplay="autoplay">
+            <source type="video/mp4" src="https://cdn.shopify.com/videos/c/o/v/008436efa169451c81fd3414cb760129.mp4">
+            Seu navegador não suporta a reprodução de vídeos.
+        </source></video></div>
+</div>
+<!-- Seção de comparação (Vídeo 2) com layout flexível no desktop - invertido apenas no desktop -->
+<div class="desktop-flex invert-desktop" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; margin-top: 20px;">
+<div class="text-container">
+<h3 style="font-weight: bold;">Ainda em dúvida? Então olha essa comparação que a Luana fez:</h3>
+</div>
+<div class="video-container"><video class="responsive-media video-2" playsinline="" controls="controls" muted="" autoplay="autoplay">
+                <source type="video/mp4" src="https://cdn.shopify.com/videos/c/o/v/d85b213978be4da182b6bee9bd7207ca.mp4">
+                Seu navegador não suporta a reprodução de vídeos.
+            </source></video></div>
+</div>
+<!-- Tabela de Tamanhos -->
+<div id="variant-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 15px; text-align: center; margin-top: 20px;">
+<h3 style="font-weight: bold;">Confira a tabela e garanta o tamanho ideal para você</h3>
+<img class="responsive-media size-chart-image" alt="Tabela de Tamanhos" src="https://cdn.shopify.com/s/files/1/0506/0329/4882/files/Medida_do_pe.jpg?v=1730310638">
+</div>
+<div class="guarantee-wrapper">
+  <div class="guarantee-section">
+    <!-- Ícone de Cadeado -->
+    <div class="guarantee-icon">
+      <svg width="50" height="50" viewbox="0 0 24 24" fill="none" stroke="#66a366" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+        <rect x="3" y="11" width="18" height="10" rx="2" ry="2" fill="#66a366"></rect>
+      </svg>
+    </div>
+    <h2 class="guarantee-title">GARANTIA 100%</h2>
+    <p class="guarantee-text">Sua satisfação em primeiro lugar. Se não for o que esperava, você tem até 7 dias para solicitar a devolução, sem complicações.</p>
+  </div>
+</div>
+<style>
+  /* Wrapper com menos espaçamento superior e inferior */
+  .guarantee-wrapper {
+    width: 100%;
+    padding: 15px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  /* Seção com borda preenchendo toda a largura */
+  .guarantee-section {
+    width: 100%;
+    max-width: 1200px;
+    background: #eaf7ea; /* Verde pastel claro */
+    border: 2px solid #66a366; /* Verde mais escuro para contraste */
+    border-radius: 12px;
+    text-align: center;
+    padding: 20px;
+  }
+  /* Ícone de cadeado com menos espaçamento inferior */
+  .guarantee-icon {
+    margin-bottom: -15px; /* Ajusta a proximidade com o título */
+  }
+  /* Título mais próximo do ícone */
+  .guarantee-title {
+    font-size: 22px;
+    font-weight: bold;
+    color: #66a366; /* Verde mais escuro */
+    margin-top: 0px;
+    margin-bottom: 5px;
+  }
+  /* Texto Explicativo */
+  .guarantee-text {
+    font-size: 16px;
+    color: #335533; /* Verde escuro para melhor leitura */
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+</style>
+<style>
+  .faq-section {
+    border: none;
+    border-radius: 0;
+    padding: 20px;
+    background: #f7f7f7;
+    margin-top: 30px;
+  }
+  .faq-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  .faq-container {
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 15px;
+  }
+  .faq-question {
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 0;
+    background: transparent;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .faq-answer {
+    display: none;
+    padding: 5px 0;
+    font-size: 14px;
+    color: #333;
+    border-top: 1px solid #000;
+  }
+  .faq-question::after {
+    content: '+';
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .faq-question.open::after {
+    content: '-';
+    font-size: 16px;
+    font-weight: bold;
+  }
+</style>
+<div class="faq-section">
+  <div class="faq-title">Dúvidas Frequentes</div>
+  <div class="faq-container">
+    <div class="faq-question">Qual o prazo de entrega?</div>
+    <div class="faq-answer">Pela grande procura dos produtos de Pé de Algodão, a previsão de entrega é de 10 a 35 dias, conforme a política de entrega</div>
+  </div>
+  <div class="faq-container">
+    <div class="faq-question">Quais são os meios de pagamento oferecidos?</div>
+    <div class="faq-answer">O pagamento da sua compra pode ser realizado via PIX ou cartão de crédito, podendo ser parcelado em até 3x sem juros ou até 12x acrescido de juros.</div>
+  </div>
+  <div class="faq-container">
+    <div class="faq-question">Composição do material </div>
+    <div class="faq-answer">Material feito 100% em EVA: acetato-vinilo de etileno.</div>
+  </div>
+  <div class="faq-container">
+    <div class="faq-question">Como rastrear meu pedido?</div>
+    <div class="faq-answer">O número de rastreio é disponibilizado de 4 a 8 dias após efetuar o pagamento e é enviado através do e-mail cadastrado.</div>
+  </div>
+  <div class="faq-container">
+    <div class="faq-question">Dicas de conservação</div>
+    <div class="faq-answer">Não deixe sua Sandália Pé de Algodão ao sol, pois ressaca o material, além de deformá-lo. Seque-o somente à sombra, em local seco e arejado.</div>
+  </div>
+</div>
+<script>
+  document.querySelectorAll('.faq-question').forEach(item => {
+    item.addEventListener('click', () => {
+      item.classList.toggle('open');
+      let answer = item.nextElementSibling;
+      answer.style.display = answer.style.display === 'block' ? 'none' : 'block';
+    });
+  });
+</script>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Bege / 34/35</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABEGE3435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Bege / 36/37</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABEGE3637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Bege / 38/39</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABEGE3839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Bege / 40/41</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABEGE4041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Bege / 42/43</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABEGE4243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Bege / 44/45</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABEGE4445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Bege / 46/47</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABEGE4647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Preto / 34/35</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAPRETO3438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Preto / 36/37</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAPRETO3637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Preto / 38/39</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAPRETO3839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Preto / 40/41</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAPRETO4041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Preto / 42/43</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAPRETO4243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Preto / 44/45</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAPRETO4445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Preto / 46/47</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAPRETO4647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Amarelo / 34/35</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAMARELO3435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Amarelo / 36/37</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAMARELO3637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Amarelo / 38/39</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAMARELO3839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Amarelo / 40/41</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAMARELO4041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Amarelo / 42/43</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAMARELO4243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Amarelo / 44/45</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAMARELO4445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Amarelo / 46/47</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAMARELO4647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Laranja / 34/35</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALARANJA3435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Laranja / 36/37</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALARANJA3637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Laranja / 38/39</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALARANJA3839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Laranja / 40/41</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALARANJA4041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Laranja / 42/43</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALARANJA4243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Laranja / 44/45</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALARANJA4445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Laranja / 46/47</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALARANJA4647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Rosa / 34/35</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAROSA3435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Rosa / 36/37</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAROSA3637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Rosa / 38/39</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAROSA3839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Rosa / 40/41</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAROSA4041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Rosa / 42/43</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAROSA4243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Rosa / 44/45</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAROSA4445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Rosa / 46/47</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAROSA4647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul / 34/35</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZUL3435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul / 36/37</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZUL3637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul / 38/39</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZUL3839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul / 40/41</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZUL4041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul / 42/43</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZUL4243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul / 44/45</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZUL4445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul / 46/47</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZUL4647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Branco / 34/35</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABRANCO3435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Branco / 36/37</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABRANCO3637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Branco / 38/39</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABRANCO3839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Branco / 40/41</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABRANCO4041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Branco / 42/43</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABRANCO4243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Branco / 44/45</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABRANCO4445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Branco / 46/47</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDABRANCO4647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul Claro / 34/35</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZCLR3435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul Claro / 36/37</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZCLR3637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul Claro / 38/39</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZCLR3839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul Claro / 40/41</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZCLR4041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul Claro / 42/43</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZCLR4243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul Claro / 44/45</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZCLR4445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Azul Claro / 46/47</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDAAZCLR4647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Lilás / 34/35</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALILAS3435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Lilás / 36/37</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALILAS3637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Lilás / 38/39</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALILAS3839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Lilás / 40/41</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALILAS4041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Lilás / 42/43</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALILAS4243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Lilás / 44/45</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALILAS4445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://pedealgodao.com.br/products/6686191648930</id>
+      <title>Lilás / 46/47</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku>PDALILAS4647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
